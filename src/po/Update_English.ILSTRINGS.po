@@ -1,0 +1,742 @@
+# Jiyoon <freshworks@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://www.playwares.com/xe/game\n"
+"POT-Creation-Date: 2012-09-17 23:58+0900\n"
+"PO-Revision-Date: 2012-09-21 05:25+0900\n"
+"Last-Translator: Jiyoon Jang <freshworks@gmail.com>\n"
+"Language-Team: 플레이웨어즈\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Poedit 1.5.3\n"
+
+#: 366
+msgctxt "366"
+msgid ""
+"I've checked with my court and apparently you're fully eligible... there's "
+"nothing standing in the way of presenting you the title."
+msgstr ""
+
+#: 2091
+msgctxt "2091"
+msgid ""
+"\"I've made up my mind, even if my advisors are still squabbling. I'm "
+"sending you to Windhelm.\""
+msgstr ""
+
+#: 3970
+msgctxt "3970"
+msgid ""
+"I can provide you with help for her minions though.  This should help you "
+"deal with the Catacombs themselves. "
+msgstr ""
+
+#: 4136
+msgctxt "4136"
+msgid ""
+"\"Oh don't pretend to be modest. I'm talking about your new role as "
+"champion. Apparently, you've taken my people under your wing.\""
+msgstr ""
+
+#: 4273
+msgctxt "4273"
+msgid ""
+"\"Well, well. Aren't we the overachiever. Three possibilities, three "
+"victims. Must have been one of them, right? So why take chances...\""
+msgstr ""
+
+#: 4432
+msgctxt "4432"
+msgid ""
+"\"Ah, the feisty goodwife. Quite the mouth on her. Someone must have wanted "
+"her dead... right?\""
+msgstr ""
+
+#: 4437
+msgctxt "4437"
+msgid "When has any good ever come from talking to the Empire?"
+msgstr ""
+
+#: 4579
+msgctxt "4579"
+msgid ""
+"\"Therefore, by my authority as Jarl, I pronounce you Thane of Riften and "
+"award you all of the benefits befitting your station. Congratulations.\""
+msgstr ""
+
+#: 6004
+msgctxt "6004"
+msgid ""
+"\"I do hope mummy and father come to get me soon. Ever since that Aventus "
+"boy left, this place has gone mad.\""
+msgstr ""
+
+#: 7611
+msgctxt "7611"
+msgid ""
+"I don't know how you convinced Ulfric to talk to the Empire. Worse than a "
+"waste of time if you ask me."
+msgstr ""
+
+#: 8312
+msgctxt "8312"
+msgid ""
+"\"Well, I'm just surprised the Gourmet is a Redguard. I had you pegged for a "
+"Wood Elf, honestly. You know, because of your use of...\""
+msgstr ""
+
+#: 9792
+msgctxt "9792"
+msgid "Just get out of here."
+msgstr ""
+
+#: 11442
+msgctxt "11442"
+msgid ""
+"You're a Nord! I never would have guessed it! But where in the world did you "
+"learn to cook like that? Here in Skyrim? Or maybe somewhere less..."
+msgstr ""
+
+#: 13649
+msgctxt "13649"
+msgid ""
+"\"If you think you can steal my throne by winning the hearts of the people, "
+"that's where you're wrong. Keep that in mind.\""
+msgstr ""
+
+#: 14558
+msgctxt "14558"
+msgid ""
+"She was responsible for the Empire's near collapse almost five hundred years "
+"ago. I believe I have a book about her..."
+msgstr ""
+
+#: 15083
+msgctxt "15083"
+msgid "We can talk about that once this dragon is dealt with."
+msgstr ""
+
+#: 15085
+msgctxt "15085"
+msgid "You damn well better."
+msgstr ""
+
+#: 15545
+msgctxt "15545"
+msgid ""
+"\"Aventus Aretino? He only lived here for awhile. I think his mother got "
+"sick and died or something. Anyway, he's gone now. He ran away.\""
+msgstr ""
+
+#: 16074
+msgctxt "16074"
+msgid ""
+"No doubt requesting to garrison his men in my castle. How many times must I "
+"deny him?"
+msgstr ""
+
+#: 16775
+msgctxt "16775"
+msgid ""
+"\"As to Potema herself, find what's left of her body, likely a skeleton. "
+"Remove it from the Catacombs and bring it back to be sanctified by Arkay.\""
+msgstr ""
+
+#: 17426
+msgctxt "17426"
+msgid ""
+"\"Hmm. The fearless wife and mother, and the underhanded Khajiit. Had to be "
+"one of them, right? Interesting choice.\""
+msgstr ""
+
+#: 17791
+msgctxt "17791"
+msgid ""
+"\"But Samuel told me he's back home in Windhelm, and did some kind of dark "
+"ritual. He summoned killers to murder old Grelod. He's saved us all.\""
+msgstr ""
+
+#: 18104
+msgctxt "18104"
+msgid "That's it! Wonderful! I knew I could count on you."
+msgstr ""
+
+#: 19370
+msgctxt "19370"
+msgid ""
+"\"No... no, that is all. Now... now please. I find myself very weary all of "
+"sudden.\""
+msgstr ""
+
+#: 20680
+msgctxt "20680"
+msgid "We can talk about that once this dragon is dealt with."
+msgstr ""
+
+#: 21703
+msgctxt "21703"
+msgid ""
+"Then allow me to officially welcome you to Riften. You'll make a fine "
+"addition to our city."
+msgstr ""
+
+#: 22763
+msgctxt "22763"
+msgid "I suppose it's time I gave him an answer..."
+msgstr ""
+
+#: 22765
+msgctxt "22765"
+msgid "Ah yes."
+msgstr ""
+
+#: 22771
+msgctxt "22771"
+msgid "\"Did he now? The man is persistent, I'll give him that.\""
+msgstr ""
+
+#: 22900
+msgctxt "22900"
+msgid "Deliver this axe to Ulfric Stormcloak."
+msgstr ""
+
+#: 23221
+msgctxt "23221"
+msgid ""
+"I don't have any money to give you. but I can show you a few tricks I "
+"learned playing for the Winterhold wizards."
+msgstr ""
+
+#: 23319
+msgctxt "23319"
+msgid ""
+"\"Word out on the street is that he went home to Windhelm, and people have "
+"heard strange chanting coming from his house. Looks like he really did it!\""
+msgstr ""
+
+#: 23510
+msgctxt "23510"
+msgid ""
+"\"Well, I just never expected the Gourmet to be a Breton. It almost seems "
+"too obvious. Some of the greatest cooks have been Bretons, and...\""
+msgstr ""
+
+#: 24028
+msgctxt "24028"
+msgid ""
+"\"The timid warrior and the sly Khajiit. Must have been one or the other, "
+"right?\""
+msgstr ""
+
+#: 24313
+msgctxt "24313"
+msgid ""
+"\"Yes. I had Falk call you back because you were at the summoning, you have "
+"a connection to Potema now. You must deal with her.\""
+msgstr ""
+
+#: 24797
+msgctxt "24797"
+msgid ""
+"\"I expect that you'll distance yourself from the affairs of state. In other "
+"words, keep your nose out of my business and we'll do just fine.\""
+msgstr ""
+
+#: 24934
+msgctxt "24934"
+msgid ""
+"\"Oh ho. The whimpering Nord, eh? Yes, yes, I can see how you'd come to that "
+"conclusion. Interesting choice.\""
+msgstr ""
+
+#: 25715
+msgctxt "25715"
+msgid ""
+"\"Hmph. Yes. Yes, I surely can. It's not something I do lightly, mind you, "
+"and it's not as specific as you might want. But yes. I will do this for you."
+"\""
+msgstr ""
+
+#: 25771
+msgctxt "25771"
+msgid ""
+"\"Good. Being at the summoning created a connection to Potema, you are the "
+"one to do this. \""
+msgstr ""
+
+#: 27209
+msgctxt "27209"
+msgid ""
+"\"When Aventus escaped, Grelod was so mad. I got double the beatings that "
+"day. But that won't happen ever again.\""
+msgstr ""
+
+#: 27401
+msgctxt "27401"
+msgid ""
+"Grelod... murdered. Here. I... I need... air... You... you... Get out of "
+"here! Get out!"
+msgstr ""
+
+#: 27927
+msgctxt "27927"
+msgid ""
+"\"Just remember that you're only a part of my court, this doesn't make you "
+"one of the family.\""
+msgstr ""
+
+#: 27939
+msgctxt "27939"
+msgid "Begone from here! Get out of this orphanage! Help!Somebody help me!"
+msgstr ""
+
+#: 27942
+msgctxt "27942"
+msgid "Just... leave here! Leave us alone!"
+msgstr ""
+
+#: 28573
+msgctxt "28573"
+msgid ""
+"\"Oh, well, it's just... I never imagined the Gourmet was a Khajiit. You "
+"know, because of all the fur, and the potential for getting hair in the...\""
+msgstr ""
+
+#: 28665
+msgctxt "28665"
+msgid "All that remains now is to bestow the title upon you."
+msgstr ""
+
+#: 28750
+msgctxt "28750"
+msgid ""
+"Ah Potema. Former queen of Solitude and one of the most dangerous "
+"necromancers in recorded history."
+msgstr ""
+
+#: 29826
+msgctxt "29826"
+msgid ""
+"You... you're an Argonian! Where did you learn to cook like that? Surely not "
+"in Black Marsh. Why even the..."
+msgstr ""
+
+#: 30032
+msgctxt "30032"
+msgid "\"Please, relax. Free your mind. Yes, that's it...\""
+msgstr ""
+
+#: 30549
+msgctxt "30549"
+msgid "I'll come to your council. But I doubt any good will come of it."
+msgstr ""
+
+#: 30691
+msgctxt "30691"
+msgid ""
+"\"I used to hate it here, but it's not so bad anymore. Constance is real "
+"good to us.\""
+msgstr ""
+
+#: 31721
+msgctxt "31721"
+msgid ""
+"My son is dead! At his own wedding! Only those Imperial dogs would have "
+"dared do something like this! Damn them all to Oblivion!"
+msgstr ""
+
+#: 32073
+msgctxt "32073"
+msgid "Talking peace with Ulfric? You must be an optimist."
+msgstr ""
+
+#: 33318
+msgctxt "33318"
+msgid ""
+"You've been a beacon of hope in these dark times for my people and I will "
+"never forget it."
+msgstr ""
+
+#: 34388
+msgctxt "34388"
+msgid ""
+"Summoned in spirit form is not raised from the dead. She'll need help before "
+"she can return to the living."
+msgstr ""
+
+#: 34421
+msgctxt "34421"
+msgid ""
+"Why are you here? Killing Gaius Maro is but the first step of your contract "
+"- you must also plant the incriminating letter on his body..."
+msgstr ""
+
+#: 34739
+msgctxt "34739"
+msgid ""
+"I apologize in advance for my husband's crankiness; I promise you he means "
+"well."
+msgstr ""
+
+#: 35488
+msgctxt "35488"
+msgid ""
+"I've been informed by my steward that you've made quite an impression in the "
+"Rift; several of our citizens have expressed their admiration."
+msgstr ""
+
+#: 36767
+msgctxt "36767"
+msgid "You have some nerve coming back here after what you did to Keerava."
+msgstr ""
+
+#: 37643
+msgctxt "37643"
+msgid ""
+"\"I guessed right! I... I always imagined the great Gourmet was a Wood Elf. "
+"You see, only someone with a knowledge of woodland herbs could combine...\""
+msgstr ""
+
+#: 37740
+msgctxt "37740"
+msgid ""
+"\"When Aventus escaped, Grelod got meaner than ever. I really thought she "
+"was going to kill one of us. Guess not!\""
+msgstr ""
+
+#: 38296
+msgctxt "38296"
+msgid "\"Token, you say? Let me see.\""
+msgstr ""
+
+#: 38593
+msgctxt "38593"
+msgid ""
+"\"A few days ago, one of her servants busted through a wall into the Temple "
+"of Divines. We'll need you to go into the Catacombs themselves.\""
+msgstr ""
+
+#: 38594
+msgctxt "38594"
+msgid ""
+"\"For the moment, the Wolf Queen has retreated to a place filled with dead "
+"eager to serve her. She has gone to her old Catacombs.\""
+msgstr ""
+
+#: 38597
+msgctxt "38597"
+msgid "I can provide you with some help with her minions. "
+msgstr ""
+
+#: 38899
+msgctxt "38899"
+msgid ""
+"\"Oh, goodness me. You're a friend of Gabriella's, then. Well, I guess we "
+"both know why you're here.\""
+msgstr ""
+
+#: 39224
+msgctxt "39224"
+msgid ""
+"\"However, since it wouldn't behoove me to make you disappear, I'd rather "
+"have you on my side as Thane of Riften.\""
+msgstr ""
+
+#: 40815
+msgctxt "40815"
+msgid ""
+"\"Oh, Aventus Aretino. He was sent here when his mother died, but he ran "
+"away.\""
+msgstr ""
+
+#: 40890
+msgctxt "40890"
+msgid "Hmm? What's this about?"
+msgstr ""
+
+#: 41082
+msgctxt "41082"
+msgid ""
+"Aventus Aretino. He was sent to live here after his mother died. He escaped. "
+"And..."
+msgstr ""
+
+#: 41399
+msgctxt "41399"
+msgid "\"So, I've been hearing your name in court quite a bit lately.\""
+msgstr ""
+
+#: 41788
+msgctxt "41788"
+msgid ""
+"\"I heard he went back to his house in Windhelm, to try and get the Dark "
+"Brotherhood to come and murder Grelod. And... he actually pulled it off!\""
+msgstr ""
+
+#: 41799
+msgctxt "41799"
+msgid ""
+"\"Before he left, he said he was going to do the Black Sacrament. You know, "
+"to call the Dark Brotherhood. So they'd come and kill old Grelod!\""
+msgstr ""
+
+#: 42057
+msgctxt "42057"
+msgid "\"Don't worry, I'll come to this peace council of yours.\""
+msgstr ""
+
+#: 42770
+msgctxt "42770"
+msgid ""
+"I guess all that's left is to bestow the title. What were those words again?"
+msgstr ""
+
+#: 44034
+msgctxt "44034"
+msgid ""
+"\"Kill one person, and you can solve so many problems. I wonder at the "
+"possibilities.\""
+msgstr ""
+
+#: 45102
+msgctxt "45102"
+msgid ""
+"\"A little boy who lived here. Aventus Aretino. He was nice, but really "
+"quiet, and sad, because his mother just died.\""
+msgstr ""
+
+#: 45901
+msgctxt "45901"
+msgid "You'll never see the sun again. No one escapes Cidhna Mine. No one."
+msgstr ""
+
+#: 46590
+msgctxt "46590"
+msgid ""
+"You've already taken all the necessary steps in becoming eligible for the "
+"title."
+msgstr ""
+
+#: 46592
+msgctxt "46592"
+msgid "Well? Out with it."
+msgstr ""
+
+#: 47168
+msgctxt "47168"
+msgid ""
+"\"Oh, Asgeir! My husband! My dear, sweet husband! Why would someone do this "
+"to you? Why? This was supposed to be the happiest day of my life!\""
+msgstr ""
+
+#: 47717
+msgctxt "47717"
+msgid ""
+"\"Much like Mjoll, you've become champion of our hold; helping people with "
+"their difficulties and providing assistance for their needs.\""
+msgstr ""
+
+#: 47718
+msgctxt "47718"
+msgid ""
+"Doesn't matter... the title is yours. I henceforth name you Thane of Riften. "
+"Don't disappoint me."
+msgstr ""
+
+#: 47729
+msgctxt "47729"
+msgid "Therefore all that remains is to bestow it upon you."
+msgstr ""
+
+#: 48684
+msgctxt "48684"
+msgid ""
+"Indeed. But I abide only those whose will is aligned to my own. Those who "
+"oppose my desires perish in the most dreadful of ways."
+msgstr ""
+
+#: 49110
+msgctxt "49110"
+msgid ""
+"He ran away. Back home to Windhelm. Samuel told me he was trying to get some "
+"murderer people to come here and kill Grelod. Did he really do it?"
+msgstr ""
+
+#: 50629
+msgctxt "50629"
+msgid ""
+"\"Oh, yes. Of course... the whole thane thing. I'd forgotten. If you're "
+"ready then, can we get this out of the way?\""
+msgstr ""
+
+#: 51866
+msgctxt "51866"
+msgid ""
+"\"Balimund pulled me out of Grelod's orphanage when I was just a child. I "
+"don't know what he saw in me, but I was glad to get out of there.\""
+msgstr ""
+
+#: 51918
+msgctxt "51918"
+msgid ""
+"\"It's just... Well... you're an Orc! Ha ha ha! If the people of the Empire "
+"only knew! I mean, now I understand your need for secrecy. Most would...\""
+msgstr ""
+
+#: 52069
+msgctxt "52069"
+msgid "I should slay you for such insolence!"
+msgstr ""
+
+#: 52070
+msgctxt "52070"
+msgid "My good pleasure is not some trophy for mortal sport!"
+msgstr ""
+
+#: 52071
+msgctxt "52071"
+msgid "My favor?"
+msgstr ""
+
+#: 52624
+msgctxt "52624"
+msgid ""
+"You're a High Elf! I... I never would have guessed it. So many of your "
+"recipes are clearly aimed at the commonfolk. It just seems..."
+msgstr ""
+
+#: 52627
+msgctxt "52627"
+msgid ""
+"\"I... Well, I just can't believe the Gourmet is a Dark Elf. How difficult "
+"it must have been for you in Morrowind. The food there is...\""
+msgstr ""
+
+#: 53850
+msgctxt "53850"
+msgid ""
+"I've been informed by my steward that you've made quite an impression in the "
+"Rift; the people won't stop blathering about you."
+msgstr ""
+
+#: 54840
+msgctxt "54840"
+msgid ""
+"\"As the Jarl of Riften, I feel it's my duty to honor your selfless behavior "
+"by honoring you with the title Thane of Riften.\""
+msgstr ""
+
+#: 55267
+msgctxt "55267"
+msgid ""
+"\"When Aventus took off, when he said those things, about killing Grelod... "
+"I never imagined he was serious...\""
+msgstr ""
+
+#: 56052
+msgctxt "56052"
+msgid ""
+"I remember you... You were at Helgen with us! Come to join the war? Speak "
+"with Galmar. He handles the new recruits."
+msgstr ""
+
+#: 56922
+msgctxt "56922"
+msgid ""
+"\"Things are much better now that Grelod is dead, but still. I'm sick of "
+"this place.\""
+msgstr ""
+
+#: 57086
+msgctxt "57086"
+msgid ""
+"\"The blubbering barbarian and the tenacious mother. Must have been one of "
+"them, right?\""
+msgstr ""
+
+#: 57835
+msgctxt "57835"
+msgid "\"Ah, at last. I've been anxiously awaiting your return.\""
+msgstr ""
+
+#: 58332
+msgctxt "58332"
+msgid ""
+"\"I remember you, you were at Helgen. Speak to Legate Rikke. I suspect we "
+"could use someone like you.\""
+msgstr ""
+
+#: 58805
+msgctxt "58805"
+msgid ""
+"\"Well, I don't mean to seem disappointed, but... I just never figured the "
+"Gourmet was an Imperial. I had dreamed of something more exotic, maybe...\""
+msgstr ""
+
+#: 58901
+msgctxt "58901"
+msgid ""
+"\"Constance don't care much for strangers in the orphanage. Afraid someone "
+"might hurt one of us kids. Which, I gotta admit, is kind of nice.\""
+msgstr ""
+
+#: 59019
+msgctxt "59019"
+msgid ""
+"\"I've spent years watching his techniques and learning his tricks. Sadly, I "
+"don't think I'll ever be as talented as he was.\""
+msgstr ""
+
+#: 59103
+msgctxt "59103"
+msgid ""
+"You can return this axe to our friend. The esteemed Jarl of Windhelm has my "
+"answer. Make sure he gets it."
+msgstr ""
+
+#: 61675
+msgctxt "61675"
+msgid ""
+"\"By all the gods, the groom has been killed. At his own wedding! I can only "
+"think of my own husband...\""
+msgstr ""
+
+#: 61836
+msgctxt "61836"
+msgid ""
+"I should be the one thanking you. You've solved more problems in the short "
+"time you've been here then anyone in my court has their entire careers."
+msgstr ""
+
+#: 62771
+msgctxt "62771"
+msgid ""
+"I was apprenticed to Balimund before he died. He taught me everything I know "
+"about forging armor and weapons."
+msgstr ""
+
+#: 63242
+msgctxt "63242"
+msgid ""
+"The conniving Khajiit. Cat like that was sure to have enemies. It's no "
+"wonder you chose him."
+msgstr ""
+
+#: 63322
+msgctxt "63322"
+msgid "I can't believe it! Grelod is dead! She's really dead!"
+msgstr ""
+
+#: 63787
+msgctxt "63787"
+msgid "Ah yes. I've studied those documents... Very interesting..."
+msgstr ""
+
+#: 64256
+msgctxt "64256"
+msgid "\"Ah, there you are. I was wondering when you'd visit us again.\""
+msgstr ""

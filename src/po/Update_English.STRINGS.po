@@ -1,0 +1,2062 @@
+# Jiyoon <freshworks@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://www.playwares.com/xe/game\n"
+"POT-Creation-Date: 2012-09-17 23:58+0900\n"
+"PO-Revision-Date: 2012-09-21 05:26+0900\n"
+"Last-Translator: Jiyoon Jang <freshworks@gmail.com>\n"
+"Language-Team: 플레이웨어즈\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Poedit 1.5.3\n"
+
+#: 1
+msgctxt "1"
+msgid "Goat"
+msgstr ""
+
+#: 2
+msgctxt "2"
+msgid "Summons a Frost Atronach permanently."
+msgstr ""
+
+#: 3
+msgctxt "3"
+msgid ""
+"Summons a Storm Atronach for <dur> seconds wherever the caster is pointing."
+msgstr ""
+
+#: 4
+msgctxt "4"
+msgid "[...]"
+msgstr ""
+
+#: 5
+msgctxt "5"
+msgid ""
+"Summons a Frost Atronach for <dur> seconds wherever the caster is pointing."
+msgstr ""
+
+#: 6
+msgctxt "6"
+msgid "Summons a Flame Atronach permanently."
+msgstr ""
+
+#: 7
+msgctxt "7"
+msgid ""
+"Summons a Flame Atronach for <dur> seconds wherever the caster is pointing."
+msgstr ""
+
+#: 8
+msgctxt "8"
+msgid "Conjure Frost Thrall"
+msgstr ""
+
+#: 9
+msgctxt "9"
+msgid "Conjure Flame Atronach"
+msgstr ""
+
+#: 10
+msgctxt "10"
+msgid "Conjure Storm Atronach"
+msgstr ""
+
+#: 11
+msgctxt "11"
+msgid "Conjure Frost Atronach"
+msgstr ""
+
+#: 12
+msgctxt "12"
+msgid "Conjure Flame Thrall"
+msgstr ""
+
+#: 13
+msgctxt "13"
+msgid "Summons a Storm Atronach permanently."
+msgstr ""
+
+#: 14
+msgctxt "14"
+msgid "Conjure Storm Thrall"
+msgstr ""
+
+#: 15
+msgctxt "15"
+msgid "\"KINECT, List of Commands\""
+msgstr ""
+
+#: 17
+msgctxt "17"
+msgid "\"KINECT, Using Shouts\""
+msgstr ""
+
+#: 20
+msgctxt "20"
+msgid "Your follower is too far to trade with. "
+msgstr ""
+
+#: 21
+msgctxt "21"
+msgid ""
+"The Kinect has failed to initialize.  Ensure that your Kinect is connected "
+"and updated.  Kinect commands have been disabled. "
+msgstr ""
+
+#: 22
+msgctxt "22"
+msgid ""
+"Your Kinect has not been calibrated. Voice commands have been disabled. "
+"Please use the Kinect Tuner to calibrate your Kinect's audio. "
+msgstr ""
+
+#: 778
+msgctxt "778"
+msgid "Talk to the Jarl of Whiterun"
+msgstr ""
+
+#: 1271
+msgctxt "1271"
+msgid "Ebony Dagger"
+msgstr ""
+
+#: 1412
+msgctxt "1412"
+msgid "Get access to Hjerim"
+msgstr ""
+
+#: 2147
+msgctxt "2147"
+msgid "Yes?"
+msgstr ""
+
+#: 2604
+msgctxt "2604"
+msgid "Mzulft Aedrome"
+msgstr ""
+
+#: 3392
+msgctxt "3392"
+msgid "Thalmor Embassy"
+msgstr ""
+
+#: 3412
+msgctxt "3412"
+msgid "You have a task for me?"
+msgstr ""
+
+#: 3710
+msgctxt "3710"
+msgid "Morvunskar"
+msgstr ""
+
+#: 3915
+msgctxt "3915"
+msgid "Khajiit"
+msgstr ""
+
+#: 4364
+msgctxt "4364"
+msgid "Regenerate Magicka"
+msgstr ""
+
+#: 4440
+msgctxt "4440"
+msgid "I can do that."
+msgstr ""
+
+#: 4483
+msgctxt "4483"
+msgid "Call Storm"
+msgstr ""
+
+#: 4658
+msgctxt "4658"
+msgid "Honeyside"
+msgstr ""
+
+#: 4686
+msgctxt "4686"
+msgid "Yes?"
+msgstr ""
+
+#: 4922
+msgctxt "4922"
+msgid "Smithing"
+msgstr ""
+
+#: 4964
+msgctxt "4964"
+msgid "Dark Elf"
+msgstr ""
+
+#: 5245
+msgctxt "5245"
+msgid "Escape the Thalmor Embassy"
+msgstr ""
+
+#: 5306
+msgctxt "5306"
+msgid "Breton"
+msgstr ""
+
+#: 5562
+msgctxt "5562"
+msgid "Retrieve the pommel of Mehrunes' Razor"
+msgstr ""
+
+#: 5697
+msgctxt "5697"
+msgid "Deflect Arrows"
+msgstr ""
+
+#: 5753
+msgctxt "5753"
+msgid "Yes?"
+msgstr ""
+
+#: 6231
+msgctxt "6231"
+msgid "Retrieve the blade shards of Mehrunes' Razor"
+msgstr ""
+
+#: 6283
+msgctxt "6283"
+msgid "Light Fingers"
+msgstr ""
+
+#: 6577
+msgctxt "6577"
+msgid "Limbsplitter"
+msgstr ""
+
+#: 6651
+msgctxt "6651"
+msgid "Intimidate <Alias=Brute> in <Alias=BruteTown>"
+msgstr ""
+
+#: 6809
+msgctxt "6809"
+msgid "High Elf"
+msgstr ""
+
+#: 6981
+msgctxt "6981"
+msgid "Water Explosion"
+msgstr ""
+
+#: 7220
+msgctxt "7220"
+msgid "Guide Meridia's Light through the temple"
+msgstr ""
+
+#: 7531
+msgctxt "7531"
+msgid "Rjorn's Drum"
+msgstr ""
+
+#: 7988
+msgctxt "7988"
+msgid "DB07AstridCiceroDeadYesChoice"
+msgstr ""
+
+#: 8138
+msgctxt "8138"
+msgid "The Ragged Flagon - Cistern"
+msgstr ""
+
+#: 8422
+msgctxt "8422"
+msgid "Skyrim"
+msgstr ""
+
+#: 8564
+msgctxt "8564"
+msgid "Return to Brynjolf"
+msgstr ""
+
+#: 8577
+msgctxt "8577"
+msgid "(Optional) Smash Bersi's prized Dwarven Urn"
+msgstr ""
+
+#: 8579
+msgctxt "8579"
+msgid "Collect Bersi Honey-Hand's debt"
+msgstr ""
+
+#: 8585
+msgctxt "8585"
+msgid "Collect Keerava's debt"
+msgstr ""
+
+#: 8589
+msgctxt "8589"
+msgid "Locate Brynjolf at the Ragged Flagon"
+msgstr ""
+
+#: 8598
+msgctxt "8598"
+msgid "Talk to <Alias=AuthorityFigure>"
+msgstr ""
+
+#: 8600
+msgctxt "8600"
+msgid "Catch the murderer"
+msgstr ""
+
+#: 8605
+msgctxt "8605"
+msgid "Patrol the streets of the Stone Quarter at night"
+msgstr ""
+
+#: 8609
+msgctxt "8609"
+msgid "Talk to <Alias=AuthorityFigure>"
+msgstr ""
+
+#: 8611
+msgctxt "8611"
+msgid "Investigate Hjerim with Viola"
+msgstr ""
+
+#: 8614
+msgctxt "8614"
+msgid "Meet Viola outside of Hjerim"
+msgstr ""
+
+#: 8615
+msgctxt "8615"
+msgid "Follow up on the clues from Hjerim"
+msgstr ""
+
+#: 8617
+msgctxt "8617"
+msgid "Look for clues"
+msgstr ""
+
+#: 8623
+msgctxt "8623"
+msgid "Talk to Helgird"
+msgstr ""
+
+#: 8624
+msgctxt "8624"
+msgid "Examine the crime scene"
+msgstr ""
+
+#: 8625
+msgctxt "8625"
+msgid "Talk to <Alias=AuthorityFigure>"
+msgstr ""
+
+#: 8626
+msgctxt "8626"
+msgid "Report to the guard"
+msgstr ""
+
+#: 8629
+msgctxt "8629"
+msgid "Question the witnesses"
+msgstr ""
+
+#: 8630
+msgctxt "8630"
+msgid "Get assistance from Jorleif"
+msgstr ""
+
+#: 8711
+msgctxt "8711"
+msgid "Return to Brynjolf"
+msgstr ""
+
+#: 8712
+msgctxt "8712"
+msgid "Return to Maven Black-Briar"
+msgstr ""
+
+#: 8720
+msgctxt "8720"
+msgid "Return to Sabjorn"
+msgstr ""
+
+#: 8725
+msgctxt "8725"
+msgid "Poison the Honningbrew Vat"
+msgstr ""
+
+#: 8727
+msgctxt "8727"
+msgid "Poison the Nest"
+msgstr ""
+
+#: 8729
+msgctxt "8729"
+msgid "Speak to Sabjorn"
+msgstr ""
+
+#: 8760
+msgctxt "8760"
+msgid "Dampened Spirits"
+msgstr ""
+
+#: 8906
+msgctxt "8906"
+msgid "Wabbajack"
+msgstr ""
+
+#: 9098
+msgctxt "9098"
+msgid "Claim Mehrunes' Razor"
+msgstr ""
+
+#: 9103
+msgctxt "9103"
+msgid "Speak to Mehrunes Dagon"
+msgstr ""
+
+#: 9104
+msgctxt "9104"
+msgid "Kill Silus"
+msgstr ""
+
+#: 9106
+msgctxt "9106"
+msgid "Meet Silus at the Shrine of Mehrunes Dagon"
+msgstr ""
+
+#: 9117
+msgctxt "9117"
+msgid "Bring the blade shards to Silus"
+msgstr ""
+
+#: 9121
+msgctxt "9121"
+msgid "Speak to Silus inside his house"
+msgstr ""
+
+#: 9128
+msgctxt "9128"
+msgid "Pieces of the Past"
+msgstr ""
+
+#: 9178
+msgctxt "9178"
+msgid "Return to <Alias.ShortName=Questgiver>"
+msgstr ""
+
+#: 9197
+msgctxt "9197"
+msgid "Hired Muscle"
+msgstr ""
+
+#: 9201
+msgctxt "9201"
+msgid "Return to <Alias.ShortName=Questgiver>"
+msgstr ""
+
+#: 9294
+msgctxt "9294"
+msgid "Return to Falk Firebeard"
+msgstr ""
+
+#: 9297
+msgctxt "9297"
+msgid "Retrieve Potema's remains"
+msgstr ""
+
+#: 9300
+msgctxt "9300"
+msgid "Defeat Potema"
+msgstr ""
+
+#: 9514
+msgctxt "9514"
+msgid ""
+"New Add-ons have been added.  You will need to restart to use this content.  "
+"All unsaved progress will be lost."
+msgstr ""
+
+#: 9518
+msgctxt "9518"
+msgid "Geirmund's Hall"
+msgstr ""
+
+#: 9740
+msgctxt "9740"
+msgid "Search Morvunskar for Sam and the Staff"
+msgstr ""
+
+#: 9741
+msgctxt "9741"
+msgid "Head to Morvunskar"
+msgstr ""
+
+#: 9742
+msgctxt "9742"
+msgid "Return the wedding ring to Ysolda in Whiterun"
+msgstr ""
+
+#: 9751
+msgctxt "9751"
+msgid "Talk to Ysolda in Whiterun about the staff"
+msgstr ""
+
+#: 9762
+msgctxt "9762"
+msgid "Ask about Sam and the staff in Rorikstead"
+msgstr ""
+
+#: 9764
+msgctxt "9764"
+msgid "Apologize to the priestesses of Dibella"
+msgstr ""
+
+#: 9765
+msgctxt "9765"
+msgid "Help clean up the Temple of Dibella"
+msgstr ""
+
+#: 9768
+msgctxt "9768"
+msgid "Find Sam Guevenne"
+msgstr ""
+
+#: 9798
+msgctxt "9798"
+msgid "Inheritance"
+msgstr ""
+
+#: 9893
+msgctxt "9893"
+msgid "Dark Elf"
+msgstr ""
+
+#: 10035
+msgctxt "10035"
+msgid "Find out how to defeat Alduin"
+msgstr ""
+
+#: 10159
+msgctxt "10159"
+msgid "Clear Skies"
+msgstr ""
+
+#: 10237
+msgctxt "10237"
+msgid "\"Steal, Thugs hunt player\""
+msgstr ""
+
+#: 10241
+msgctxt "10241"
+msgid "Talk to Delphine"
+msgstr ""
+
+#: 10242
+msgctxt "10242"
+msgid "Search the torture chamber"
+msgstr ""
+
+#: 10246
+msgctxt "10246"
+msgid "Search for information about the dragons returning"
+msgstr ""
+
+#: 10249
+msgctxt "10249"
+msgid "(Optional) Retrieve your gear"
+msgstr ""
+
+#: 10250
+msgctxt "10250"
+msgid "Create a distraction and get away from the party"
+msgstr ""
+
+#: 10256
+msgctxt "10256"
+msgid "Give Malborn the equipment"
+msgstr ""
+
+#: 10258
+msgctxt "10258"
+msgid "Meet Malborn in Solitude"
+msgstr ""
+
+#: 10260
+msgctxt "10260"
+msgid "Meet Delphine in Riverwood"
+msgstr ""
+
+#: 10270
+msgctxt "10270"
+msgid "Diplomatic Immunity"
+msgstr ""
+
+#: 10277
+msgctxt "10277"
+msgid "Talk to Esbern"
+msgstr ""
+
+#: 10280
+msgctxt "10280"
+msgid "Find Esbern in the Ratway Warrens"
+msgstr ""
+
+#: 10709
+msgctxt "10709"
+msgid "Bash Disarm"
+msgstr ""
+
+#: 10958
+msgctxt "10958"
+msgid "Fortify Smithing"
+msgstr ""
+
+#: 11098
+msgctxt "11098"
+msgid "Read Madanach's note"
+msgstr ""
+
+#: 11099
+msgctxt "11099"
+msgid "Search Madanach's body"
+msgstr ""
+
+#: 11100
+msgctxt "11100"
+msgid "Kill Madanach"
+msgstr ""
+
+#: 11106
+msgctxt "11106"
+msgid "Kill Grisvar the Unlucky"
+msgstr ""
+
+#: 11111
+msgctxt "11111"
+msgid "Return to Madanach"
+msgstr ""
+
+#: 11113
+msgctxt "11113"
+msgid "Talk to Madanach"
+msgstr ""
+
+#: 11123
+msgctxt "11123"
+msgid "No One Escapes Cidhna Mine"
+msgstr ""
+
+#: 11293
+msgctxt "11293"
+msgid "Bersi Honey-Hand"
+msgstr ""
+
+#: 11305
+msgctxt "11305"
+msgid "Interrogate Odahviing"
+msgstr ""
+
+#: 11308
+msgctxt "11308"
+msgid "Call Odahviing to Dragonsreach"
+msgstr ""
+
+#: 11316
+msgctxt "11316"
+msgid "Prepare trap for Odahviing"
+msgstr ""
+
+#: 11317
+msgctxt "11317"
+msgid "Learn Shout to call Odahviing"
+msgstr ""
+
+#: 11319
+msgctxt "11319"
+msgid "Talk to Esbern"
+msgstr ""
+
+#: 11325
+msgctxt "11325"
+msgid "Talk to Arngeir"
+msgstr ""
+
+#: 11328
+msgctxt "11328"
+msgid "Talk to Paarthurnax"
+msgstr ""
+
+#: 11361
+msgctxt "11361"
+msgid "Negotiate a truce"
+msgstr ""
+
+#: 11375
+msgctxt "11375"
+msgid "Talk to Ulfric Stormcloak"
+msgstr ""
+
+#: 11376
+msgctxt "11376"
+msgid "Talk to General Tullius"
+msgstr ""
+
+#: 11379
+msgctxt "11379"
+msgid "Talk to Arngeir"
+msgstr ""
+
+#: 11384
+msgctxt "11384"
+msgid "Season Unending"
+msgstr ""
+
+#: 11549
+msgctxt "11549"
+msgid "Talk to the heroes of Sovngarde"
+msgstr ""
+
+#: 11551
+msgctxt "11551"
+msgid "Gain admittance to the Hall of Valor"
+msgstr ""
+
+#: 11552
+msgctxt "11552"
+msgid "Sovngarde"
+msgstr ""
+
+#: 11690
+msgctxt "11690"
+msgid "Bring Aela her shield"
+msgstr ""
+
+#: 11692
+msgctxt "11692"
+msgid "Train with Vilkas"
+msgstr ""
+
+#: 11696
+msgctxt "11696"
+msgid "Speak to Kodlak Whitemane"
+msgstr ""
+
+#: 11740
+msgctxt "11740"
+msgid "Speak to Boethiah's Conduit"
+msgstr ""
+
+#: 11748
+msgctxt "11748"
+msgid "Slay the Jarl of Solitude"
+msgstr ""
+
+#: 11752
+msgctxt "11752"
+msgid "Slay the other cultists"
+msgstr ""
+
+#: 11756
+msgctxt "11756"
+msgid "Find the cult of Boethiah"
+msgstr ""
+
+#: 11758
+msgctxt "11758"
+msgid "Find the shrine of Boethiah"
+msgstr ""
+
+#: 11771
+msgctxt "11771"
+msgid "Boethiah's Calling"
+msgstr ""
+
+#: 11772
+msgctxt "11772"
+msgid "Retrieve Dawnbreaker"
+msgstr ""
+
+#: 11773
+msgctxt "11773"
+msgid "Destroy Malkoran"
+msgstr ""
+
+#: 11791
+msgctxt "11791"
+msgid "The Break of Dawn"
+msgstr ""
+
+#: 11882
+msgctxt "11882"
+msgid "Return to Quintus Navale"
+msgstr ""
+
+#: 11886
+msgctxt "11886"
+msgid "Find some Mammoth Tusk Powder"
+msgstr ""
+
+#: 11889
+msgctxt "11889"
+msgid "Retrieve the Unmelting Snow"
+msgstr ""
+
+#: 12485
+msgctxt "12485"
+msgid "Follow <Alias=Questgiver>"
+msgstr ""
+
+#: 12488
+msgctxt "12488"
+msgid "Brotherhood"
+msgstr ""
+
+#: 12490
+msgctxt "12490"
+msgid "Return to Jorrvaskr"
+msgstr ""
+
+#: 12492
+msgctxt "12492"
+msgid "(Optional) Wipe out the Silver Hand"
+msgstr ""
+
+#: 12494
+msgctxt "12494"
+msgid "Retrieve the fragments of Wuuthrad"
+msgstr ""
+
+#: 12499
+msgctxt "12499"
+msgid "Purity of Revenge"
+msgstr ""
+
+#: 12640
+msgctxt "12640"
+msgid "Deliver Moon Sugar to Ri'saad"
+msgstr ""
+
+#: 12851
+msgctxt "12851"
+msgid "Escaped Criminal"
+msgstr ""
+
+#: 12982
+msgctxt "12982"
+msgid "Deliver the soul gem to Arniel"
+msgstr ""
+
+#: 12986
+msgctxt "12986"
+msgid "Heat the Convector"
+msgstr ""
+
+#: 12991
+msgctxt "12991"
+msgid "Arniel's Endeavor"
+msgstr ""
+
+#: 13108
+msgctxt "13108"
+msgid "Clear Out Wolfskull Cave"
+msgstr ""
+
+#: 13109
+msgctxt "13109"
+msgid "Ask Falk Firebeard about Wolfskull Cave"
+msgstr ""
+
+#: 13790
+msgctxt "13790"
+msgid "\"Yes, Cicero is dead.\""
+msgstr ""
+
+#: 13884
+msgctxt "13884"
+msgid "My reasons are my own."
+msgstr ""
+
+#: 14271
+msgctxt "14271"
+msgid "Scroll of Frost Thrall"
+msgstr ""
+
+#: 14654
+msgctxt "14654"
+msgid "Speak with Enthir"
+msgstr ""
+
+#: 14660
+msgctxt "14660"
+msgid "Onmund's Request"
+msgstr ""
+
+#: 14994
+msgctxt "14994"
+msgid "Thalmor vs Player"
+msgstr ""
+
+#: 15010
+msgctxt "15010"
+msgid "Bounty hunters vs Player"
+msgstr ""
+
+#: 15250
+msgctxt "15250"
+msgid "Thieves Guild Fence Handler"
+msgstr ""
+
+#: 15252
+msgctxt "15252"
+msgid "Return to Tonilia"
+msgstr ""
+
+#: 15259
+msgctxt "15259"
+msgid "Thieves Guild Caravan Fence Quest"
+msgstr ""
+
+#: 15279
+msgctxt "15279"
+msgid "Find Finn's Lute"
+msgstr ""
+
+#: 15286
+msgctxt "15286"
+msgid "Return Pantea's Flute"
+msgstr ""
+
+#: 15288
+msgctxt "15288"
+msgid "Pantea's Flute"
+msgstr ""
+
+#: 15291
+msgctxt "15291"
+msgid "Find Rjorn's Drum"
+msgstr ""
+
+#: 15911
+msgctxt "15911"
+msgid "Speak to Boethiah's Conduit"
+msgstr ""
+
+#: 16068
+msgctxt "16068"
+msgid "About that message from the General..."
+msgstr ""
+
+#: 16093
+msgctxt "16093"
+msgid "Repairing the Phial"
+msgstr ""
+
+#: 16359
+msgctxt "16359"
+msgid "Bleeding Damage"
+msgstr ""
+
+#: 16810
+msgctxt "16810"
+msgid "Clear Skies"
+msgstr ""
+
+#: 16853
+msgctxt "16853"
+msgid "Give Potema's remains to Styrr"
+msgstr ""
+
+#: 17337
+msgctxt "17337"
+msgid "Take your seat"
+msgstr ""
+
+#: 17476
+msgctxt "17476"
+msgid "Reeking Cave"
+msgstr ""
+
+#: 17943
+msgctxt "17943"
+msgid "Receive a reading from Olava the Feeble"
+msgstr ""
+
+#: 18091
+msgctxt "18091"
+msgid "Talk to Brynjolf"
+msgstr ""
+
+#: 18221
+msgctxt "18221"
+msgid "Give Vilkas's sword to Eorlund"
+msgstr ""
+
+#: 18668
+msgctxt "18668"
+msgid "Yes?"
+msgstr ""
+
+#: 18815
+msgctxt "18815"
+msgid "Left Weapon Rack"
+msgstr ""
+
+#: 19101
+msgctxt "19101"
+msgid "I submit. Take me to jail."
+msgstr ""
+
+#: 19488
+msgctxt "19488"
+msgid "Whiterun"
+msgstr ""
+
+#: 19870
+msgctxt "19870"
+msgid "Bleeding Damage"
+msgstr ""
+
+#: 20164
+msgctxt "20164"
+msgid "Finn's Lute"
+msgstr ""
+
+#: 20387
+msgctxt "20387"
+msgid "Imperial"
+msgstr ""
+
+#: 20751
+msgctxt "20751"
+msgid "Get past Borkul the Beast"
+msgstr ""
+
+#: 21106
+msgctxt "21106"
+msgid "The Mind Of A Madman"
+msgstr ""
+
+#: 21492
+msgctxt "21492"
+msgid "Who is Aventus?"
+msgstr ""
+
+#: 21582
+msgctxt "21582"
+msgid "Return to Madanach"
+msgstr ""
+
+#: 22342
+msgctxt "22342"
+msgid "Giant Stomp"
+msgstr ""
+
+#: 22761
+msgctxt "22761"
+msgid "Follow Madanach"
+msgstr ""
+
+#: 22762
+msgctxt "22762"
+msgid "About that message from the Jarl..."
+msgstr ""
+
+#: 22776
+msgctxt "22776"
+msgid "About that message from the General..."
+msgstr ""
+
+#: 22777
+msgctxt "22777"
+msgid "I have an important message from General Tullius."
+msgstr ""
+
+#: 23212
+msgctxt "23212"
+msgid "Take your leave of <Alias=Victim>"
+msgstr ""
+
+#: 23228
+msgctxt "23228"
+msgid "I recovered your flute."
+msgstr ""
+
+#: 23721
+msgctxt "23721"
+msgid "Ask a prisoner about Madanach"
+msgstr ""
+
+#: 23786
+msgctxt "23786"
+msgid "I have an important message for you."
+msgstr ""
+
+#: 23818
+msgctxt "23818"
+msgid "Regenerate Health"
+msgstr ""
+
+#: 24117
+msgctxt "24117"
+msgid "Conjure Flame Atronach"
+msgstr ""
+
+#: 24336
+msgctxt "24336"
+msgid "A Cornered Rat"
+msgstr ""
+
+#: 24491
+msgctxt "24491"
+msgid "Deliver the staff to Enthir"
+msgstr ""
+
+#: 24553
+msgctxt "24553"
+msgid "Proudspire Manor"
+msgstr ""
+
+#: 24781
+msgctxt "24781"
+msgid "Jorrvaskr"
+msgstr ""
+
+#: 25260
+msgctxt "25260"
+msgid "Hello."
+msgstr ""
+
+#: 25474
+msgctxt "25474"
+msgid "\"Thalmor Embassy, Barracks\""
+msgstr ""
+
+#: 25774
+msgctxt "25774"
+msgid "Retrieve the hilt of Mehrunes' Razor"
+msgstr ""
+
+#: 26138
+msgctxt "26138"
+msgid "Breezehome"
+msgstr ""
+
+#: 26722
+msgctxt "26722"
+msgid "Call Storm"
+msgstr ""
+
+#: 26746
+msgctxt "26746"
+msgid "Find Gleda the Goat"
+msgstr ""
+
+#: 26797
+msgctxt "26797"
+msgid "Rescue <Alias=Victim> from <Alias=Lair>"
+msgstr ""
+
+#: 26895
+msgctxt "26895"
+msgid "Bring the pommel stone to Silus"
+msgstr ""
+
+#: 27102
+msgctxt "27102"
+msgid "Dead Treasure Hunter with instructions"
+msgstr ""
+
+#: 27564
+msgctxt "27564"
+msgid "Yes?"
+msgstr ""
+
+#: 27833
+msgctxt "27833"
+msgid "Bring Gleda the Goat back to Ennis in Rorikstead"
+msgstr ""
+
+#: 28304
+msgctxt "28304"
+msgid "Effects\\FXEmptyObject.nif"
+msgstr ""
+
+#: 28344
+msgctxt "28344"
+msgid "Thieves Guild Radiant Shell"
+msgstr ""
+
+#: 28630
+msgctxt "28630"
+msgid "Senna"
+msgstr ""
+
+#: 29371
+msgctxt "29371"
+msgid "Imperial"
+msgstr ""
+
+#: 29557
+msgctxt "29557"
+msgid "\"Regarding what, my lady?\""
+msgstr ""
+
+#: 30131
+msgctxt "30131"
+msgid "Find the wedding ring in Witchmist Grove"
+msgstr ""
+
+#: 30324
+msgctxt "30324"
+msgid "View Available Add-Ons"
+msgstr ""
+
+#: 30685
+msgctxt "30685"
+msgid "Argonian"
+msgstr ""
+
+#: 30920
+msgctxt "30920"
+msgid "Blood on the Ice"
+msgstr ""
+
+#: 31160
+msgctxt "31160"
+msgid "Dismaying Shout"
+msgstr ""
+
+#: 31277
+msgctxt "31277"
+msgid "(Optional) Steal Haelga's Statue of Dibella"
+msgstr ""
+
+#: 31348
+msgctxt "31348"
+msgid "Speak to Mallus Maccius"
+msgstr ""
+
+#: 31607
+msgctxt "31607"
+msgid "Dismaying Shout"
+msgstr ""
+
+#: 31807
+msgctxt "31807"
+msgid "Replace the beacon"
+msgstr ""
+
+#: 31816
+msgctxt "31816"
+msgid "Yes?"
+msgstr ""
+
+#: 32609
+msgctxt "32609"
+msgid "Bleeding Damage"
+msgstr ""
+
+#: 32762
+msgctxt "32762"
+msgid "Conjure Storm Atronach"
+msgstr ""
+
+#: 32836
+msgctxt "32836"
+msgid "Wood Elf"
+msgstr ""
+
+#: 33409
+msgctxt "33409"
+msgid "Collect Haelga's debt"
+msgstr ""
+
+#: 33751
+msgctxt "33751"
+msgid "Bring Meridia's beacon to Mount Kilkreath"
+msgstr ""
+
+#: 33952
+msgctxt "33952"
+msgid "Take Up Arms"
+msgstr ""
+
+#: 33955
+msgctxt "33955"
+msgid "Speak to Styrr"
+msgstr ""
+
+#: 34395
+msgctxt "34395"
+msgid "Ysolda"
+msgstr ""
+
+#: 34402
+msgctxt "34402"
+msgid "Find the Staff"
+msgstr ""
+
+#: 34531
+msgctxt "34531"
+msgid "I would be honored to accept."
+msgstr ""
+
+#: 34886
+msgctxt "34886"
+msgid "Fortify Magicka"
+msgstr ""
+
+#: 34966
+msgctxt "34966"
+msgid "Karliah"
+msgstr ""
+
+#: 35235
+msgctxt "35235"
+msgid "Speak to Mallus Maccius"
+msgstr ""
+
+#: 35328
+msgctxt "35328"
+msgid "Weakness to Sunlight"
+msgstr ""
+
+#: 35485
+msgctxt "35485"
+msgid "Bring the hilt to Silus"
+msgstr ""
+
+#: 35681
+msgctxt "35681"
+msgid "Attend the tasting ceremony"
+msgstr ""
+
+#: 35753
+msgctxt "35753"
+msgid "Redguard"
+msgstr ""
+
+#: 36411
+msgctxt "36411"
+msgid "Take the wedding ring"
+msgstr ""
+
+#: 37042
+msgctxt "37042"
+msgid "Forsaken Crypt"
+msgstr ""
+
+#: 37056
+msgctxt "37056"
+msgid "I'll take it."
+msgstr ""
+
+#: 37065
+msgctxt "37065"
+msgid "Bleeding Damage"
+msgstr ""
+
+#: 37449
+msgctxt "37449"
+msgid "A Night To Remember"
+msgstr ""
+
+#: 37481
+msgctxt "37481"
+msgid "DialogueRiftenGoodbyes"
+msgstr ""
+
+#: 37903
+msgctxt "37903"
+msgid "(Optional) Use Talen-Jei to get to Keerava"
+msgstr ""
+
+#: 38050
+msgctxt "38050"
+msgid "\"Wait, you want me to go do this alone?\""
+msgstr ""
+
+#: 38458
+msgctxt "38458"
+msgid "High Elf"
+msgstr ""
+
+#: 38539
+msgctxt "38539"
+msgid "Find the staff for Enthir"
+msgstr ""
+
+#: 38595
+msgctxt "38595"
+msgid "And now that Potema has returned?"
+msgstr ""
+
+#: 38602
+msgctxt "38602"
+msgid "Falk sent me to talk to you about Potema."
+msgstr ""
+
+#: 38897
+msgctxt "38897"
+msgid "I have this token for you."
+msgstr ""
+
+#: 38900
+msgctxt "38900"
+msgid "I was told you could see my future."
+msgstr ""
+
+#: 38915
+msgctxt "38915"
+msgid "Is there anything else?"
+msgstr ""
+
+#: 38927
+msgctxt "38927"
+msgid "Redguard"
+msgstr ""
+
+#: 39619
+msgctxt "39619"
+msgid "Find Meridia's beacon"
+msgstr ""
+
+#: 40394
+msgctxt "40394"
+msgid "Escape Cidhna Mine"
+msgstr ""
+
+#: 40503
+msgctxt "40503"
+msgid "Folgunthur Crypt"
+msgstr ""
+
+#: 41021
+msgctxt "41021"
+msgid "Limbsplitter"
+msgstr ""
+
+#: 41061
+msgctxt "41061"
+msgid "The Man Who Cried Wolf"
+msgstr ""
+
+#: 41185
+msgctxt "41185"
+msgid "Place the warped soul gem into a Convector"
+msgstr ""
+
+#: 41208
+msgctxt "41208"
+msgid "Slay everyone at <Alias=Dungeon> stealthily"
+msgstr ""
+
+#: 41292
+msgctxt "41292"
+msgid "About that message from Ulfric..."
+msgstr ""
+
+#: 41436
+msgctxt "41436"
+msgid "Escort <Alias=Victim> back to <Alias=VictimHome>"
+msgstr ""
+
+#: 41778
+msgctxt "41778"
+msgid "Who is Aventus?"
+msgstr ""
+
+#: 41783
+msgctxt "41783"
+msgid "Fortify Health"
+msgstr ""
+
+#: 41795
+msgctxt "41795"
+msgid "Who is Aventus?"
+msgstr ""
+
+#: 41951
+msgctxt "41951"
+msgid "Kill the escaped criminal"
+msgstr ""
+
+#: 42691
+msgctxt "42691"
+msgid "WhiterunOlavaReadingTopic1"
+msgstr ""
+
+#: 42733
+msgctxt "42733"
+msgid "Identify Sabjorn's silent partner"
+msgstr ""
+
+#: 44114
+msgctxt "44114"
+msgid "Retrieve and equip the Ebony Mail"
+msgstr ""
+
+#: 44852
+msgctxt "44852"
+msgid "Nord"
+msgstr ""
+
+#: 44932
+msgctxt "44932"
+msgid "The Wolf Queen Awakened"
+msgstr ""
+
+#: 45037
+msgctxt "45037"
+msgid "Conjure Frost Atronach"
+msgstr ""
+
+#: 45671
+msgctxt "45671"
+msgid "Hear Braig's story"
+msgstr ""
+
+#: 45865
+msgctxt "45865"
+msgid "Scroll of Storm Thrall"
+msgstr ""
+
+#: 46457
+msgctxt "46457"
+msgid "Limbsplitter"
+msgstr ""
+
+#: 46662
+msgctxt "46662"
+msgid "Clear Skies"
+msgstr ""
+
+#: 46980
+msgctxt "46980"
+msgid "Orc"
+msgstr ""
+
+#: 47147
+msgctxt "47147"
+msgid "Take a Forsworn Heart"
+msgstr ""
+
+#: 47497
+msgctxt "47497"
+msgid "Blade of Sacrifice"
+msgstr ""
+
+#: 47720
+msgctxt "47720"
+msgid "Thank you."
+msgstr ""
+
+#: 48119
+msgctxt "48119"
+msgid "Is there anything I can help Riften with?"
+msgstr ""
+
+#: 48120
+msgctxt "48120"
+msgid "Get Greybeards' help in negotiating a truce"
+msgstr ""
+
+#: 48203
+msgctxt "48203"
+msgid "Windhelm"
+msgstr ""
+
+#: 48846
+msgctxt "48846"
+msgid "Taking Care of Business"
+msgstr ""
+
+#: 48912
+msgctxt "48912"
+msgid "Summon Ghost"
+msgstr ""
+
+#: 49030
+msgctxt "49030"
+msgid "Defeat and trap Odahviing"
+msgstr ""
+
+#: 49545
+msgctxt "49545"
+msgid "Paralyze"
+msgstr ""
+
+#: 49758
+msgctxt "49758"
+msgid "Follow Farkas to your quarters"
+msgstr ""
+
+#: 50340
+msgctxt "50340"
+msgid "Talen-Jei"
+msgstr ""
+
+#: 50349
+msgctxt "50349"
+msgid "Breton"
+msgstr ""
+
+#: 50859
+msgctxt "50859"
+msgid ""
+"\"In order to use the Add-Ons associated with this profile, you will need to "
+"restart.\""
+msgstr ""
+
+#: 51203
+msgctxt "51203"
+msgid "Argonian"
+msgstr ""
+
+#: 51912
+msgctxt "51912"
+msgid "Yes?"
+msgstr ""
+
+#: 52072
+msgctxt "52072"
+msgid "I have slain <Alias=DeadFriend> to gain your favor."
+msgstr ""
+
+#: 52625
+msgctxt "52625"
+msgid "Yes?"
+msgstr ""
+
+#: 52709
+msgctxt "52709"
+msgid "The game must restart now because Add-On content has been removed."
+msgstr ""
+
+#: 52927
+msgctxt "52927"
+msgid "Talk to <Alias=Victim>"
+msgstr ""
+
+#: 52966
+msgctxt "52966"
+msgid "Talk to Malborn"
+msgstr ""
+
+#: 53186
+msgctxt "53186"
+msgid "Retrieve the soul gem"
+msgstr ""
+
+#: 53820
+msgctxt "53820"
+msgid "Speak to Mehrunes Dagon"
+msgstr ""
+
+#: 54087
+msgctxt "54087"
+msgid "Fortify Alchemy"
+msgstr ""
+
+#: 54413
+msgctxt "54413"
+msgid "\"Revenge, Hired Thugs\""
+msgstr ""
+
+#: 54463
+msgctxt "54463"
+msgid "Speak to <Alias=Questgiver>"
+msgstr ""
+
+#: 54489
+msgctxt "54489"
+msgid "Dead Men's Respite"
+msgstr ""
+
+#: 55012
+msgctxt "55012"
+msgid "Wood Elf"
+msgstr ""
+
+#: 55108
+msgctxt "55108"
+msgid "Call Storm"
+msgstr ""
+
+#: 55234
+msgctxt "55234"
+msgid "Who is Aventus?"
+msgstr ""
+
+#: 55410
+msgctxt "55410"
+msgid "Give Finn's Lute to Inge"
+msgstr ""
+
+#: 55690
+msgctxt "55690"
+msgid "Nord"
+msgstr ""
+
+#: 55730
+msgctxt "55730"
+msgid "Deliver the amulet to Onmund"
+msgstr ""
+
+#: 55821
+msgctxt "55821"
+msgid "Bleeding Damage"
+msgstr ""
+
+#: 56487
+msgctxt "56487"
+msgid "Jarl Ulfric Stormcloak asked me to deliver this axe to you."
+msgstr ""
+
+#: 56698
+msgctxt "56698"
+msgid "Meet Delphine at the stables"
+msgstr ""
+
+#: 57087
+msgctxt "57087"
+msgid "Yes?"
+msgstr ""
+
+#: 57373
+msgctxt "57373"
+msgid "Bleeding Damage"
+msgstr ""
+
+#: 57395
+msgctxt "57395"
+msgid "Right Weapon Rack"
+msgstr ""
+
+#: 57406
+msgctxt "57406"
+msgid "Reforge Mehrunes' Razor"
+msgstr ""
+
+#: 57509
+msgctxt "57509"
+msgid "Ennis"
+msgstr ""
+
+#: 58024
+msgctxt "58024"
+msgid "Speak to Falk Firebeard"
+msgstr ""
+
+#: 58453
+msgctxt "58453"
+msgid "Headsman's Axe"
+msgstr ""
+
+#: 58867
+msgctxt "58867"
+msgid "Bleeding Damage"
+msgstr ""
+
+#: 59030
+msgctxt "59030"
+msgid "Bleeding Damage"
+msgstr ""
+
+#: 59076
+msgctxt "59076"
+msgid "\"Thalmor Embassy, Elenwen's Solar\""
+msgstr ""
+
+#: 59958
+msgctxt "59958"
+msgid "Hall of Attainment"
+msgstr ""
+
+#: 60090
+msgctxt "60090"
+msgid "Twilight Sepulcher"
+msgstr ""
+
+#: 60113
+msgctxt "60113"
+msgid "Bleeding Damage"
+msgstr ""
+
+#: 60383
+msgctxt "60383"
+msgid "The Fallen"
+msgstr ""
+
+#: 60506
+msgctxt "60506"
+msgid "Bleeding Damage"
+msgstr ""
+
+#: 60539
+msgctxt "60539"
+msgid "Regenerate Stamina"
+msgstr ""
+
+#: 60664
+msgctxt "60664"
+msgid "Scroll of Flame Thrall"
+msgstr ""
+
+#: 60734
+msgctxt "60734"
+msgid "The Ragged Flagon"
+msgstr ""
+
+#: 60790
+msgctxt "60790"
+msgid "Fortify Stamina"
+msgstr ""
+
+#: 61204
+msgctxt "61204"
+msgid "Give Rjorn's Drum to Giraud"
+msgstr ""
+
+#: 61361
+msgctxt "61361"
+msgid "Khajiit"
+msgstr ""
+
+#: 61605
+msgctxt "61605"
+msgid "You look young for a blacksmith."
+msgstr ""
+
+#: 61627
+msgctxt "61627"
+msgid "Quick Reflexes"
+msgstr ""
+
+#: 62181
+msgctxt "62181"
+msgid "Orc"
+msgstr ""
+
+#: 62943
+msgctxt "62943"
+msgid "Skill Boosts"
+msgstr ""
+
+#: 63087
+msgctxt "63087"
+msgid "Speak to Maven Black-Briar"
+msgstr ""
+
+#: 63193
+msgctxt "63193"
+msgid "Speak to Quintus Navale"
+msgstr ""
+
+#: 63210
+msgctxt "63210"
+msgid "I've purchased Honeyside."
+msgstr ""
+
+#: 63349
+msgctxt "63349"
+msgid "Dismaying Shout"
+msgstr ""
+
+#: 63400
+msgctxt "63400"
+msgid "Find Pantea's Flute"
+msgstr ""
+
+#: 64235
+msgctxt "64235"
+msgid "Yes?"
+msgstr ""
+
+#: 64374
+msgctxt "64374"
+msgid "Bleeding Damage"
+msgstr ""
+
+#: 64420
+msgctxt "64420"
+msgid "Talk to Arngeir"
+msgstr ""
+
+#: 64448
+msgctxt "64448"
+msgid "Lead someone to become trapped by the shrine and slay them"
+msgstr ""
+
+#: 64513
+msgctxt "64513"
+msgid "Rescue Mission"
+msgstr ""
+
+#: 64682
+msgctxt "64682"
+msgid "Search the Ratway for Esbern's hideout"
+msgstr ""
+
+#: 66818
+msgctxt "66818"
+msgid "Weakness to Sunlight"
+msgstr ""
+
+#: 67212
+msgctxt "67212"
+msgid "Weakness to Sunlight"
+msgstr ""
+
+#: 67630
+msgctxt "67630"
+msgid "Weakness to Sunlight"
+msgstr ""
+
+#: 69128
+msgctxt "69128"
+msgid "Clean up that murderer's mess. (<Global=HDWindhelmKiller> gold)"
+msgstr ""
+
+#: 70463
+msgctxt "70463"
+msgid "Falkreath Jail"
+msgstr ""
+
+#: 70959
+msgctxt "70959"
+msgid "Dark Brotherhood Assassin Sent to Kill the Player"
+msgstr ""
+
+#: 70974
+msgctxt "70974"
+msgid "Giant Stomp"
+msgstr ""
+
+#: 71222
+msgctxt "71222"
+msgid "Warmaster Knockdown"
+msgstr ""
+
+#: 71301
+msgctxt "71301"
+msgid "Courier Delivering an Important Message"
+msgstr ""
+
+#: 71716
+msgctxt "71716"
+msgid "Place the warpred soul gem into a final Convector"
+msgstr ""
+
+#: 71717
+msgctxt "71717"
+msgid "Place the warped soul gem into another Convector"
+msgstr ""
+
+#: 74188
+msgctxt "74188"
+msgid "Increases your health by <mag> points."
+msgstr ""
+
+#: 74261
+msgctxt "74261"
+msgid "Magicka regenerates <mag>% faster."
+msgstr ""
+
+#: 74290
+msgctxt "74290"
+msgid "Stamina regenerates <mag>% faster."
+msgstr ""
+
+#: 74300
+msgctxt "74300"
+msgid "Health regenerates <mag>% faster."
+msgstr ""
+
+#: 74382
+msgctxt "74382"
+msgid "Weapons and armor can be improved <mag>% better."
+msgstr ""
+
+#: 74426
+msgctxt "74426"
+msgid "Increases your Magicka by <mag> points."
+msgstr ""
+
+#: 74437
+msgctxt "74437"
+msgid "Created potions are <mag>% more powerful."
+msgstr ""
+
+#: 74449
+msgctxt "74449"
+msgid "Increases your stamina by <mag> points."
+msgstr ""
+
+#: 74579
+msgctxt "74579"
+msgid "A blast from Wabbajack with an unpredictable effect. "
+msgstr ""
+
+#: 74620
+msgctxt "74620"
+msgid "Character menu is not available."
+msgstr ""
+
+#: 74933
+msgctxt "74933"
+msgid "MaterialWaterPuddle"
+msgstr ""
+
+#: 74959
+msgctxt "74959"
+msgid "MaterialWaterPuddle"
+msgstr ""
+
+#: 75018
+msgctxt "75018"
+msgid "MaterialWaterPuddle"
+msgstr ""
+
+#: 75206
+msgctxt "75206"
+msgid "Summons a Dremora for <dur> seconds."
+msgstr ""
+
+#: 75218
+msgctxt "75218"
+msgid "Summon Dremora"
+msgstr ""
+
+#: 75374
+msgctxt "75374"
+msgid ""
+"Calls a storm for <dur> seconds with lightning that strikes friend and foe "
+"alike."
+msgstr ""
+
+#: 75377
+msgctxt "75377"
+msgid ""
+"Calls a storm for <dur> seconds with lightning that strikes friend and foe "
+"alike."
+msgstr ""
+
+#: 75378
+msgctxt "75378"
+msgid ""
+"Calls a storm for <dur> seconds with lightning that strikes friend and foe "
+"alike."
+msgstr ""
+
+#: 75456
+msgctxt "75456"
+msgid "I've purchased Honeyside."
+msgstr ""

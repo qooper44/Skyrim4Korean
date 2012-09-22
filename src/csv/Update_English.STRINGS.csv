@@ -1,0 +1,407 @@
+Index,Text
+1,Goat
+2,Summons a Frost Atronach permanently.
+3,Summons a Storm Atronach for <dur> seconds wherever the caster is pointing.
+4,[...]
+5,Summons a Frost Atronach for <dur> seconds wherever the caster is pointing.
+6,Summons a Flame Atronach permanently.
+7,Summons a Flame Atronach for <dur> seconds wherever the caster is pointing.
+8,Conjure Frost Thrall
+9,Conjure Flame Atronach
+10,Conjure Storm Atronach
+11,Conjure Frost Atronach
+12,Conjure Flame Thrall
+13,Summons a Storm Atronach permanently.
+14,Conjure Storm Thrall
+15,"KINECT, List of Commands"
+17,"KINECT, Using Shouts"
+20,Your follower is too far to trade with. 
+21,The Kinect has failed to initialize.  Ensure that your Kinect is connected and updated.  Kinect commands have been disabled. 
+22,Your Kinect has not been calibrated. Voice commands have been disabled. Please use the Kinect Tuner to calibrate your Kinect's audio. 
+778,Talk to the Jarl of Whiterun
+1271,Ebony Dagger
+1412,Get access to Hjerim
+2147,Yes?
+2604,Mzulft Aedrome
+3392,Thalmor Embassy
+3412,You have a task for me?
+3710,Morvunskar
+3915,Khajiit
+4364,Regenerate Magicka
+4440,I can do that.
+4483,Call Storm
+4658,Honeyside
+4686,Yes?
+4922,Smithing
+4964,Dark Elf
+5245,Escape the Thalmor Embassy
+5306,Breton
+5562,Retrieve the pommel of Mehrunes' Razor
+5697,Deflect Arrows
+5753,Yes?
+6231,Retrieve the blade shards of Mehrunes' Razor
+6283,Light Fingers
+6577,Limbsplitter
+6651,Intimidate <Alias=Brute> in <Alias=BruteTown>
+6809,High Elf
+6981,Water Explosion
+7220,Guide Meridia's Light through the temple
+7531,Rjorn's Drum
+7988,DB07AstridCiceroDeadYesChoice
+8138,The Ragged Flagon - Cistern
+8422,Skyrim
+8564,Return to Brynjolf
+8577,(Optional) Smash Bersi's prized Dwarven Urn
+8579,Collect Bersi Honey-Hand's debt
+8585,Collect Keerava's debt
+8589,Locate Brynjolf at the Ragged Flagon
+8598,Talk to <Alias=AuthorityFigure>
+8600,Catch the murderer
+8605,Patrol the streets of the Stone Quarter at night
+8609,Talk to <Alias=AuthorityFigure>
+8611,Investigate Hjerim with Viola
+8614,Meet Viola outside of Hjerim
+8615,Follow up on the clues from Hjerim
+8617,Look for clues
+8623,Talk to Helgird
+8624,Examine the crime scene
+8625,Talk to <Alias=AuthorityFigure>
+8626,Report to the guard
+8629,Question the witnesses
+8630,Get assistance from Jorleif
+8711,Return to Brynjolf
+8712,Return to Maven Black-Briar
+8720,Return to Sabjorn
+8725,Poison the Honningbrew Vat
+8727,Poison the Nest
+8729,Speak to Sabjorn
+8760,Dampened Spirits
+8906,Wabbajack
+9098,Claim Mehrunes' Razor
+9103,Speak to Mehrunes Dagon
+9104,Kill Silus
+9106,Meet Silus at the Shrine of Mehrunes Dagon
+9117,Bring the blade shards to Silus
+9121,Speak to Silus inside his house
+9128,Pieces of the Past
+9178,Return to <Alias.ShortName=Questgiver>
+9197,Hired Muscle
+9201,Return to <Alias.ShortName=Questgiver>
+9294,Return to Falk Firebeard
+9297,Retrieve Potema's remains
+9300,Defeat Potema
+9514,New Add-ons have been added.  You will need to restart to use this content.  All unsaved progress will be lost.
+9518,Geirmund's Hall
+9740,Search Morvunskar for Sam and the Staff
+9741,Head to Morvunskar
+9742,Return the wedding ring to Ysolda in Whiterun
+9751,Talk to Ysolda in Whiterun about the staff
+9762,Ask about Sam and the staff in Rorikstead
+9764,Apologize to the priestesses of Dibella
+9765,Help clean up the Temple of Dibella
+9768,Find Sam Guevenne
+9798,Inheritance
+9893,Dark Elf
+10035,Find out how to defeat Alduin
+10159,Clear Skies
+10237,"Steal, Thugs hunt player"
+10241,Talk to Delphine
+10242,Search the torture chamber
+10246,Search for information about the dragons returning
+10249,(Optional) Retrieve your gear
+10250,Create a distraction and get away from the party
+10256,Give Malborn the equipment
+10258,Meet Malborn in Solitude
+10260,Meet Delphine in Riverwood
+10270,Diplomatic Immunity
+10277,Talk to Esbern
+10280,Find Esbern in the Ratway Warrens
+10709,Bash Disarm
+10958,Fortify Smithing
+11098,Read Madanach's note
+11099,Search Madanach's body
+11100,Kill Madanach
+11106,Kill Grisvar the Unlucky
+11111,Return to Madanach
+11113,Talk to Madanach
+11123,No One Escapes Cidhna Mine
+11293,Bersi Honey-Hand
+11305,Interrogate Odahviing
+11308,Call Odahviing to Dragonsreach
+11316,Prepare trap for Odahviing
+11317,Learn Shout to call Odahviing
+11319,Talk to Esbern
+11325,Talk to Arngeir
+11328,Talk to Paarthurnax
+11361,Negotiate a truce
+11375,Talk to Ulfric Stormcloak
+11376,Talk to General Tullius
+11379,Talk to Arngeir
+11384,Season Unending
+11549,Talk to the heroes of Sovngarde
+11551,Gain admittance to the Hall of Valor
+11552,Sovngarde
+11690,Bring Aela her shield
+11692,Train with Vilkas
+11696,Speak to Kodlak Whitemane
+11740,Speak to Boethiah's Conduit
+11748,Slay the Jarl of Solitude
+11752,Slay the other cultists
+11756,Find the cult of Boethiah
+11758,Find the shrine of Boethiah
+11771,Boethiah's Calling
+11772,Retrieve Dawnbreaker
+11773,Destroy Malkoran
+11791,The Break of Dawn
+11882,Return to Quintus Navale
+11886,Find some Mammoth Tusk Powder
+11889,Retrieve the Unmelting Snow
+12485,Follow <Alias=Questgiver>
+12488,Brotherhood
+12490,Return to Jorrvaskr
+12492,(Optional) Wipe out the Silver Hand
+12494,Retrieve the fragments of Wuuthrad
+12499,Purity of Revenge
+12640,Deliver Moon Sugar to Ri'saad
+12851,Escaped Criminal
+12982,Deliver the soul gem to Arniel
+12986,Heat the Convector
+12991,Arniel's Endeavor
+13108,Clear Out Wolfskull Cave
+13109,Ask Falk Firebeard about Wolfskull Cave
+13790,"Yes, Cicero is dead."
+13884,My reasons are my own.
+14271,Scroll of Frost Thrall
+14654,Speak with Enthir
+14660,Onmund's Request
+14994,Thalmor vs Player
+15010,Bounty hunters vs Player
+15250,Thieves Guild Fence Handler
+15252,Return to Tonilia
+15259,Thieves Guild Caravan Fence Quest
+15279,Find Finn's Lute
+15286,Return Pantea's Flute
+15288,Pantea's Flute
+15291,Find Rjorn's Drum
+15911,Speak to Boethiah's Conduit
+16068,About that message from the General...
+16093,Repairing the Phial
+16359,Bleeding Damage
+16810,Clear Skies
+16853,Give Potema's remains to Styrr
+17337,Take your seat
+17476,Reeking Cave
+17943,Receive a reading from Olava the Feeble
+18091,Talk to Brynjolf
+18221,Give Vilkas's sword to Eorlund
+18668,Yes?
+18815,Left Weapon Rack
+19101,I submit. Take me to jail.
+19488,Whiterun
+19870,Bleeding Damage
+20164,Finn's Lute
+20387,Imperial
+20751,Get past Borkul the Beast
+21106,The Mind Of A Madman
+21492,Who is Aventus?
+21582,Return to Madanach
+22342,Giant Stomp
+22761,Follow Madanach
+22762,About that message from the Jarl...
+22776,About that message from the General...
+22777,I have an important message from General Tullius.
+23212,Take your leave of <Alias=Victim>
+23228,I recovered your flute.
+23721,Ask a prisoner about Madanach
+23786,I have an important message for you.
+23818,Regenerate Health
+24117,Conjure Flame Atronach
+24336,A Cornered Rat
+24491,Deliver the staff to Enthir
+24553,Proudspire Manor
+24781,Jorrvaskr
+25260,Hello.
+25474,"Thalmor Embassy, Barracks"
+25774,Retrieve the hilt of Mehrunes' Razor
+26138,Breezehome
+26722,Call Storm
+26746,Find Gleda the Goat
+26797,Rescue <Alias=Victim> from <Alias=Lair>
+26895,Bring the pommel stone to Silus
+27102,Dead Treasure Hunter with instructions
+27564,Yes?
+27833,Bring Gleda the Goat back to Ennis in Rorikstead
+28304,Effects\FXEmptyObject.nif
+28344,Thieves Guild Radiant Shell
+28630,Senna
+29371,Imperial
+29557,"Regarding what, my lady?"
+30131,Find the wedding ring in Witchmist Grove
+30324,View Available Add-Ons
+30685,Argonian
+30920,Blood on the Ice
+31160,Dismaying Shout
+31277,(Optional) Steal Haelga's Statue of Dibella
+31348,Speak to Mallus Maccius
+31607,Dismaying Shout
+31807,Replace the beacon
+31816,Yes?
+32609,Bleeding Damage
+32762,Conjure Storm Atronach
+32836,Wood Elf
+33409,Collect Haelga's debt
+33751,Bring Meridia's beacon to Mount Kilkreath
+33952,Take Up Arms
+33955,Speak to Styrr
+34395,Ysolda
+34402,Find the Staff
+34531,I would be honored to accept.
+34886,Fortify Magicka
+34966,Karliah
+35235,Speak to Mallus Maccius
+35328,Weakness to Sunlight
+35485,Bring the hilt to Silus
+35681,Attend the tasting ceremony
+35753,Redguard
+36411,Take the wedding ring
+37042,Forsaken Crypt
+37056,I'll take it.
+37065,Bleeding Damage
+37449,A Night To Remember
+37481,DialogueRiftenGoodbyes
+37903,(Optional) Use Talen-Jei to get to Keerava
+38050,"Wait, you want me to go do this alone?"
+38458,High Elf
+38539,Find the staff for Enthir
+38595,And now that Potema has returned?
+38602,Falk sent me to talk to you about Potema.
+38897,I have this token for you.
+38900,I was told you could see my future.
+38915,Is there anything else?
+38927,Redguard
+39619,Find Meridia's beacon
+40394,Escape Cidhna Mine
+40503,Folgunthur Crypt
+41021,Limbsplitter
+41061,The Man Who Cried Wolf
+41185,Place the warped soul gem into a Convector
+41208,Slay everyone at <Alias=Dungeon> stealthily
+41292,About that message from Ulfric...
+41436,Escort <Alias=Victim> back to <Alias=VictimHome>
+41778,Who is Aventus?
+41783,Fortify Health
+41795,Who is Aventus?
+41951,Kill the escaped criminal
+42691,WhiterunOlavaReadingTopic1
+42733,Identify Sabjorn's silent partner
+44114,Retrieve and equip the Ebony Mail
+44852,Nord
+44932,The Wolf Queen Awakened
+45037,Conjure Frost Atronach
+45671,Hear Braig's story
+45865,Scroll of Storm Thrall
+46457,Limbsplitter
+46662,Clear Skies
+46980,Orc
+47147,Take a Forsworn Heart
+47497,Blade of Sacrifice
+47720,Thank you.
+48119,Is there anything I can help Riften with?
+48120,Get Greybeards' help in negotiating a truce
+48203,Windhelm
+48846,Taking Care of Business
+48912,Summon Ghost
+49030,Defeat and trap Odahviing
+49545,Paralyze
+49758,Follow Farkas to your quarters
+50340,Talen-Jei
+50349,Breton
+50859,"In order to use the Add-Ons associated with this profile, you will need to restart."
+51203,Argonian
+51912,Yes?
+52072,I have slain <Alias=DeadFriend> to gain your favor.
+52625,Yes?
+52709,The game must restart now because Add-On content has been removed.
+52927,Talk to <Alias=Victim>
+52966,Talk to Malborn
+53186,Retrieve the soul gem
+53820,Speak to Mehrunes Dagon
+54087,Fortify Alchemy
+54413,"Revenge, Hired Thugs"
+54463,Speak to <Alias=Questgiver>
+54489,Dead Men's Respite
+55012,Wood Elf
+55108,Call Storm
+55234,Who is Aventus?
+55410,Give Finn's Lute to Inge
+55690,Nord
+55730,Deliver the amulet to Onmund
+55821,Bleeding Damage
+56487,Jarl Ulfric Stormcloak asked me to deliver this axe to you.
+56698,Meet Delphine at the stables
+57087,Yes?
+57373,Bleeding Damage
+57395,Right Weapon Rack
+57406,Reforge Mehrunes' Razor
+57509,Ennis
+58024,Speak to Falk Firebeard
+58453,Headsman's Axe
+58867,Bleeding Damage
+59030,Bleeding Damage
+59076,"Thalmor Embassy, Elenwen's Solar"
+59958,Hall of Attainment
+60090,Twilight Sepulcher
+60113,Bleeding Damage
+60383,The Fallen
+60506,Bleeding Damage
+60539,Regenerate Stamina
+60664,Scroll of Flame Thrall
+60734,The Ragged Flagon
+60790,Fortify Stamina
+61204,Give Rjorn's Drum to Giraud
+61361,Khajiit
+61605,You look young for a blacksmith.
+61627,Quick Reflexes
+62181,Orc
+62943,Skill Boosts
+63087,Speak to Maven Black-Briar
+63193,Speak to Quintus Navale
+63210,I've purchased Honeyside.
+63349,Dismaying Shout
+63400,Find Pantea's Flute
+64235,Yes?
+64374,Bleeding Damage
+64420,Talk to Arngeir
+64448,Lead someone to become trapped by the shrine and slay them
+64513,Rescue Mission
+64682,Search the Ratway for Esbern's hideout
+66818,Weakness to Sunlight
+67212,Weakness to Sunlight
+67630,Weakness to Sunlight
+69128,Clean up that murderer's mess. (<Global=HDWindhelmKiller> gold)
+70463,Falkreath Jail
+70959,Dark Brotherhood Assassin Sent to Kill the Player
+70974,Giant Stomp
+71222,Warmaster Knockdown
+71301,Courier Delivering an Important Message
+71716,Place the warpred soul gem into a final Convector
+71717,Place the warped soul gem into another Convector
+74188,Increases your health by <mag> points.
+74261,Magicka regenerates <mag>% faster.
+74290,Stamina regenerates <mag>% faster.
+74300,Health regenerates <mag>% faster.
+74382,Weapons and armor can be improved <mag>% better.
+74426,Increases your Magicka by <mag> points.
+74437,Created potions are <mag>% more powerful.
+74449,Increases your stamina by <mag> points.
+74579,A blast from Wabbajack with an unpredictable effect. 
+74620,Character menu is not available.
+74933,MaterialWaterPuddle
+74959,MaterialWaterPuddle
+75018,MaterialWaterPuddle
+75206,Summons a Dremora for <dur> seconds.
+75218,Summon Dremora
+75374,Calls a storm for <dur> seconds with lightning that strikes friend and foe alike.
+75377,Calls a storm for <dur> seconds with lightning that strikes friend and foe alike.
+75378,Calls a storm for <dur> seconds with lightning that strikes friend and foe alike.
+75456,I've purchased Honeyside.

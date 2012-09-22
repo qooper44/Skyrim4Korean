@@ -1,0 +1,436 @@
+Index,Text
+16,"Only usable during main gameplay. You must have the shout unlocked to the level you want to use, and you can say the Shout in English or in Dragon Language.
+
+1. English Language: Available without holding RB. Just say the name. e.g. UNRELENTING FORCE, and the highest known level of the shout will trigger.
+
+2. Dragon Language: Only available when holding RB. 
+
+Note: To use Shouts or Powers while Kinect is enabled using the controller, press LB + RB at same time.
+
+
+Unrelenting Force - ""Fus Ro Dah""
+
+Dismaying Shout - ""Faas Ru Maar""
+
+Become Ethereal - ""Feim Zii Gron""
+
+Whirlwind Sprint - ""Wuld Nah Kest""
+
+Elemental Fury - ""Su Grah Dun""
+
+Clear Skies - ""Lok Vah Koor""
+
+Fire Breath - ""Yol Toor Shul""
+
+Dragonrend - ""Joor Zah Frul""
+
+Call of Valor - ""Hun Kaal Zoor""
+
+Call Dragon - ""Od Ah Viing"" (No 1st or 2nd level variations of this shout)
+
+Animal Allegiance - ""Raan Mir Tah""
+
+Aura Whisper - ""Laas Yah Nir""
+
+Disarm - ""Zun Haal Viik""
+
+Marked For Death - ""Krii Lun Aus""
+
+Frost Breath - ""Fo Krah Diin""
+
+Storm Call - ""Strun Bah Qo""
+
+Kyne's Peace - ""Kaan Drem Ov""
+
+Slow Time - ""Tiid Klo Ul""
+
+Throw Voice - ""Zul Mey Gut""
+
+Ice Form - ""Iiz Slen Nus"""
+19,"KINECT COMMANDS
+
+Turn on Kinect functionality by going to SETTINGS->GAMEPLAY and check USE KINECT COMMANDS. Be sure to calibrate your Kinect sensor for sound first.
+
+MAIN GAMEPLAY
+
+""Quick Items"" - Opens inventory menu
+""Quick Magic"" - Opens magic menu
+""Quick Skills"" - Opens stats menu
+""Quick Map"" - Opens map menu
+""Quick Save"" - Quick-saves the game
+""Quick Load"" - Quick-loads the game
+""New Save"" - Saves the game into a new save slot
+""Pause Game"" - Pauses the game
+
+CHARACTER MENU
+""Items"" - Opens inventory menu
+""Magic"" - Opens magic menu
+""Skills"" - Opens skills menu
+""Map"" - Opens map menu
+
+FAVORITES MENU
+""Assign <hotkey command>"" -  Sets the selected item to the spoken hotkey
+""Health Potion""
+""Magicka Potion""
+""Stamina Potion""
+""Poison""
+""Sword""
+""Mace""
+""Axe""
+""Dagger""
+""Bow""
+""Shield""
+""Dual Wield Left""
+""Dual Wield Right""
+""Soul Trap""
+""Greatsword""
+""Battleaxe""
+""Warhammer""
+""Fire Spell""
+""Frost Spell""
+""Lightning Spell""
+""Ward Spell""
+""Ritual Spell""
+""Bound Weapon""
+""Summon Spell""
+""Armor Spell""
+""Calm Spell""
+""Frenzy Spell""
+""Healing Spell""
+""Light""
+
+HOTKEY EQUIPPING
+Only usable during main gameplay
+""Equip <hotkey command>"" - Equips item in the default hand
+""Equip Left <hotkey command>"" - Equips item in the Left hand, if possible.
+""Equip Right <hotkey command>"" - Equips item in the Right hand, if possible.
+""Equip Dual <hotkey command>"" - Equips the item in both hands, if possible.
+
+See above for definition of <hotkey command>
+""Equip Sword And Shield"" - Equips the item with the Sword hotkey in the right hand, and the item with the Shield hotkey in the left hand
+
+Also: 
+""Equip Mace and Shield""
+""Equip Axe and Shield""
+""Equip Dagger and Shield""
+""Equip Dual Weapons"" - Equips the item with the DualWieldLeft hotkey in the left hand, and the item with the DualWieldRight hotkey in the left hand.
+
+FOLLOWER COMMANDS
+Only usable during main gameplay.  Only valid if you have a follower.
+
+""Ally Follow"" or ""Ally Follow Me"" - Ally follows you as if you told them ""Follow me.""
+""Ally Wait"" or ""Ally Wait Here"" - Ally stays where they are
+""Ally Trade"" or ""Ally Items"" - Opens the Teammate menu
+""Ally Open"" - Commands the ally to open the container / door you're looking at.
+""Ally Stand"" - Commands the ally to stand at the spot you're looking at.
+""Ally Retrieve"" - Commands the ally to pick up the item you're looking at.
+""Ally Attack"" - Commands the ally to attack the NPC you're looking at.
+""Ally Interact"" or ""Ally Use"" - Does a generic Interact command with the ally.  Same as if you entered Command mode and pressed A.  What the ally does is dependent on what you're looking at
+
+SHOUTS
+Only usable during main gameplay.  
+
+Unrelenting Force - ""Fus Ro Dah""
+
+Dismaying Shout - ""Faas Ru Maar""
+
+Become Ethereal - ""Feim Zii Gron""
+
+Whirlwind Sprint - ""Wuld Nah Kest""
+
+Elemental Fury - ""Su Grah Dun""
+
+Clear Skies - ""Lok Vah Koor""
+
+Fire Breath - ""Yol Toor Shul""
+
+Dragonrend - ""Joor Zah Frul""
+
+Call of Valor - ""Hun Kaal Zoor""
+
+Call Dragon - ""Od Ah Viing"" (No 1st or 2nd level variations of this shout)
+
+Animal Allegiance - ""Raan Mir Tah""
+
+Aura Whisper - ""Laas Yah Nir""
+
+Disarm - ""Zun Haal Viik""
+
+Marked For Death - ""Krii Lun Aus""
+
+Frost Breath - ""Fo Krah Diin""
+
+Storm Call - ""Strun Bah Qo""
+
+Kyne's Peace - ""Kaan Drem Ov""
+
+Slow Time - ""Tiid Klo Ul""
+
+Throw Voice - ""Zul Mey Gut""
+
+Ice Form - ""Iiz Slen Nus""
+
+
+INVENTORY MENU
+""Favorites""
+""All""
+""Weapons""
+""Apparel"" or ""Armor""
+""Potions""
+""Scrolls""
+""Food""
+""Ingredients""
+""Books""
+""Keys""
+""Miscellaneous""
+""Sort By Name"" - Sorts the item list by name, increasing.  If the list is already sorted by name increasingly, sorts it decreasingly.
+""Sort By Weight"" - Sorts the item list by weight, decreasing.  If the list is already sorted by weight decreasingly, sorts it increasingly.
+""Sort By Value"" - Sorts the item list by value, decreasing.  If the list is already sorted by value decreasingly, sorts it increasingly.
+""Close Menu"" - Closes the menu
+
+BARTER MENU
+Vendor categories - Open the item list for the spoken vendor category
+""Their Items""
+""Their Weapons""
+""Their Apparel""
+""Their Potions""
+""Their Scrolls""
+""Their Food""
+""Their Ingredients""
+""Their Books""
+""Their Keys""
+""Their Miscellaneous""
+
+Player categories - Opens the item list for the spoken player category
+""My Items"" or ""All""
+""My Weapons"" or ""Weapons""
+""My Apparel"" or ""Apparel"" or ""Armor""
+""My Potions"" or ""Potions""
+""My Scrolls"" or ""Scrolls""
+""My Food"" or ""Food""
+""My Ingredients"" or ""Ingredients""
+""My Books"" or ""Books""
+""My Keys"" or ""Keys""
+""My Miscellaneous""
+""Sort By Name""
+""Sort By Value""
+""Sort By Weight""
+""Close Menu""
+
+CONTAINER MENU
+""Their Items""
+""Their Weapons""
+""Their Apparel""
+""Their Potions""
+""Their Scrolls""
+""Their Food""
+""Their Ingredients""
+""Their Books""
+""Their Keys""
+""Their Miscellaneous""
+
+Player categories - Opens the item list for the spoken player category
+""My Items"" or ""All""
+""My Weapons"" or ""Weapons""
+""My Apparel"" or ""Apparel"" or ""Armor""
+""My Potions"" or ""Potions""
+""My Scrolls"" or ""Scrolls""
+""My Food"" or ""Food""
+""My Ingredients"" or ""Ingredients""
+""My Books"" or ""Books""
+""My Keys"" or ""Keys""
+""My Miscellaneous""
+""Set Loot Limit <value>"" - Sets the value that the ""Loot Items"" voice command should use.
+<value> can be 0, 5, 10, 25, 50 or 100.
+
+""Loot Items"" - Takes all items from a container whose value-to-weight ratio is greater than or equal to the loot limit.  If the limit is 0, only takes weightless items with value, i.e. gold.
+""Sort By Name""
+""Sort By Value""
+""Sort By Weight""
+""Close Menu""
+
+MAGIC MENU
+""Favorites""
+""All""
+""Alteration""
+""Illusion""
+""Destruction""
+""Conjuration""
+""Restoration""
+""Shouts""
+""Powers""
+""Active Effects"" or ""Effects""
+
+MAP MENU
+""<city name>"" - Centers the camera on that city.  Following cities (9 hold capitals) are implemented:
+""Windhelm""
+""Falkreath""
+""Dawnstar""
+""Morthal""
+""Solitude""
+""Markarth""
+""Riften""
+""Whiterun""
+""Winterhold""
+""Player"" or ""Where am I"" - Centers camera on the player.
+""Waypoint"" - Centers camera on player-set marker, if available
+""Quest Marker"" or ""Quest"" - Centers camera on active quest target.  Saying it multiple times will cycle through targets.
+
+
+STATS MENU
+""One Handed""
+""Two Handed""
+""Archery""
+""Block""
+""Smithing""
+""Heavy Armor""
+""Light Armor""
+""Pickpocket""
+""Lockpicking""
+""Sneak""
+""Alchemy""
+""Speech""
+""Alteration""
+""Conjuration""
+""Destruction""
+""Illusion""
+""Restoration""
+""Enchanting"""
+92,"I've passed through Alduin's portal into Sovngarde, the realm of Aetherius where the souls of Nord heroes go to feast and battle until the final reckoning. Now to find Alduin and defeat him once and for all."
+178,"Citizens of Skyrim, they are a tall and fair-haired people.  Strong and hardy, Nords are famous for their resistance to cold and their talent as warriors. They can use a Battlecry to make opponents flee."
+975,"In addition to their quick and perceptive grasp of spellcraft, even the humblest of High Rock's Bretons can boast a resistance to magic. Bretons can call upon the Dragonskin power to absorb spells."
+977,I have been inducted as a full member of the Companions.
+1990,<Alias=Brute> won't be causing as much trouble for <Alias=BruteTown>.
+2810,"The people of the Wrothgarian and Dragontail Mountains, Orcish smiths are prized for their craftsmanship. Orc troops in Heavy Armor are among the finest in the Empire, and are fearsome when using their Berserker Rage."
+4921,The art of creating and improving weapons and armor from raw materials.
+5410,Potema has been summoned from beyond the grave and is gathering power. Styrr has given me the key to Potema's Catacombs. I must enter the catacombs and prevent Potema from fully resurrecting by acquiring her bones.
+6564,Attacks with battle axes cause extra bleeding damage.
+6566,Attacks with battle axes cause more bleeding damage.
+6569,Attacks with battle axes cause even more bleeding damage.
+6743,Unified perk for applying skill benefits from perks
+8374,<Alias=Victim> has been kidnapped and taken to <Alias=Lair>. I need to get <Alias.PronounObj=Victim> back to <Alias=VictimHome>.
+8590,"I've dealt with the three troublesome business owners in Riften as Brynjolf had specified. Perhaps now that I've proven my worth to Brynjolf, I can discover more about this mysterious organization that he represents."
+8592,"After successfully locating the Ragged Flagon, Brynjolf has given me a new assignment. Three business owners in Riften are proving to be a thorn in his side and I'm supposed to teach them the error of their ways. I should speak to Brynjolf about these townspeople in the event that they prove to be as stubborn as I'm expecting them to be."
+8742,"Now that Mallus's position as the owner of Honningbrew Meadery has been secured, I need to find any information explaining how Sabjorn was able to fund this costly operation."
+8745,The plan worked perfectly and Whiterun's Captain of the Guard was stricken with illness when he drank the poisoned mead. Sabjorn's been carted off to jail and Honningbrew Meadery is now closed.
+8750,"Sabjorn has provided me with poison I'm to apply to the nests deep within the tunnels under Honningbrew Meadery. As Mallus predicted, I should be able to use the very same poison to taint Sabjorn's mead as well."
+8752,"I've become a key component in a cunning plan to frame Honningbrew Meadery's owner, Sabjorn, and have him imprisoned. The first part of the scheme is to approach Sabjorn under the guise of assistance with a pest problem he's having thanks to Mallus's tinkering."
+8759,"I've been sent to speak to Maven Black-Briar, head of the wealthiest most influential family in Riften. According to Brynjolf, she has a job of utmost importance for me and I need to follow her directions to the letter."
+8845,"If I want to become a member of the Companions, I have to speak to their leader, Kodlak Whitemane, in Whiterun."
+8912,An otherworldly voice coming from Mount Kilkreath is commanding me to find a beacon and return it.
+9122,Silus is dead. Whatever plans he had have died with him.
+9124,I refused to kill Silus for Mehrunes Dagon. The Razor is forever out of my grasp.
+9125,Silus is dead and Mehrunes' Razor is mine.
+9127,"Silus Vesuius, the owner of a museum dedicated to the Mythic Dawn cult, wants to hire me for a job. He'll give me the details inside his house in Dawnstar."
+9182,"<Alias=Brute> was killed, through no fault of my own."
+9183,I got carried away and killed <Alias=Brute>.
+9185,<Alias=Brute> has been causing trouble for someone around <Alias=BruteTown>. I need to rough <Alias.PronounObj=Brute> up to remind <Alias.PronounObj=Brute> of <Alias.PronounPosObj=Brute> obligations.
+9214,I found <Alias=Victim> in <Alias=Lair> but <Alias.Pronoun=Victim> died.
+9215,I rescued <Alias=Victim> from <Alias=Lair> and escorted <Alias.PronounObj=Victim> back to <Alias=VictimHome>.
+9310,Potema has been summoned from beyond the grave and is gathering power. Falk has sent me to Styrr to get the key to Potema's Catacombs.
+9773,"""Sam"" turned out to be the daedric prince of debauchery, Sanguine. He spurred me on during a drunken night of revelry that crossed all of Skyrim. I've acquired the Sanguine Rose for my troubles."
+9776,I have awoken from a night of debauchery with no idea what happened. Sam and the staff he promised me have disappeared. Ysolda in Whiterun has told me to look for Sam in Morvunskar.
+9783,"I have awoken from a night of debauchery with no idea what happened. Sam and the staff he promised me have disappeared. A note of debt I gave to Ennis in Rorikstead has directed me to Ysolda in Whiterun, she might be able to direct me to Sam."
+9784,I have awoken from a night of debauchery with no idea what happened. Sam and the staff he promised me have disappeared. Ennis in Rorikstead will tell me more about what happened once I return the goat I stole from him.
+9786,I have awoken from a night of debauchery with no idea what happened. Sam and the staff he promised me have disappeared. The priestesses of Dibella have told me to ask about Sam in Rorikstead.
+9788,I have awoken in the Temple Of Dibella in Markarth. Sam and the staff he promised me have disappeared. I have no idea how I got here but a priestess has told me I trashed the Temple. The priestess might tell me what happened to Sam and the staff if I pick up the place.
+9789,I have awoken in the Temple Of Dibella in Markarth. Sam and the staff he promised me have disappeared.
+10261,"It seems that things are worse than even Delphine thought. Dragons aren't just coming back to life, they're being resurrected by other dragons. Delphine suspects that the Thalmor might be bringing dragons back for some sinister purpose. I met with her contact, Malborn, who is going to smuggle some of my equipment into the Thalmor ambassador's manor. I'm going to infiltrate the manor posing as a guest at the ambassador's party. Once inside, I need to meet up with Malborn and figure out a way to slip away from the party without being caught."
+10264,"It seems that things are worse than even Delphine thought. Dragons aren't just coming back to life, they're being resurrected by other dragons. Delphine suspects that the Thalmor might be bringing dragons back for some sinister purpose. She's going to help me infiltrate the Thalmor ambassador's manor and find out what they know about the dragons. I should meet with her contact, Malborn, in the Winking Skeever Inn in Solitude."
+10299,"The Thalmor are just as puzzled as we are about why dragons are returning. I learned that they are looking for a Blade named Esbern, who Delphine says is an expert on ancient dragon lore. We need to find him before the Thalmor do."
+11121,"I'm imprisoned inside Cidhna Mine, framed for Eltrys' murder. I have to find Madanach, the King in Rags, and clear my name."
+11330,"After I defeated Alduin on the top of the Throat of the World, he fled from me. One of his dragon allies may be able to tell me where he's gone. With the help of the Jarl of Whiterun, I've trapped the dragon Odahviing in Dragonsreach. Now to interrogate Odahviing and learn the location of Alduin's lair so I can finish him off, once and for all."
+11332,"After I defeated Alduin on the top of the Throat of the World, he fled from me. One of his dragon allies may be able to tell me where he's gone. The Jarl of Whiterun has agreed to help me trap a dragon in Dragonsreach. I've learned a Shout which is the name of one of Alduin's allies, which should serve to bring him to the Dragonsreach courtyard so I can trap him there. Then I can interrogate the dragon and learn the location of Alduin's lair so I can finish him off, once and for all. "
+11336,"After I defeated Alduin on the top of the Throat of the World, he fled from me. One of his dragon allies may be able to tell me where he's gone. The Jarl of Whiterun has agreed to help me trap a dragon in Dragonsreach. Then I can interrogate the dragon and learn the location of Alduin's lair so I can finish him off, once and for all."
+11337,"After I defeated Alduin on the top of the Throat of the World, he fled from me. One of his dragon allies may be able to tell me where he's gone. The Jarl of Whiterun has agreed to help me trap a dragon in Dragonsreach. Now I need some way to lure a dragon into the trap. Esbern or Paarthurnax might be able to help."
+11342,"After I defeated Alduin on the top of the Throat of the World, he fled from me. One of his dragon allies may be able to tell me where he's gone. I've learned that Dragonsreach, the Jarl's palace in Whiterun, was once used to imprison a dragon. If I can arrange a truce in the civil war, the Jarl of Whiterun has agreed to help me trap a dragon in Dragonsreach. Then I can interrogate the dragon and learn the location of Alduin's lair so I can finish him off, once and for all."
+11346,"After I defeated Alduin on the top of the Throat of the World, he fled from me. One of his dragon allies may be able to tell me where he's gone. I've learned that Dragonsreach, the Jarl's palace in Whiterun, was once used to imprison a dragon. I need to persuade the Jarl of Whiterun to help me trap a dragon in Dragonsreach."
+11382,"The Jarl of Whiterun won't help me capture a dragon as long as the civil war is raging. If I can get the Greybeards to host a peace council, I can try to convince the Imperials and the Stormcloaks to agree to a truce in order to defeat Alduin, who is a threat to both sides in the civil war."
+11697,"I have joined the Companions, the legendary warrior band of Whiterun."
+11702,"The legendary warrior band of Whiterun, the Companions have agreed to let me join them, if I can handle some preliminary tasks for them."
+11759,"Boethiah revealed herself to me. I am to slay her previous champion, and having done so, don the Ebony Mail. So doing, she will make me her champion."
+11760,Boethiah has appeared using <Alias=DeadFriend>'s corpse as a vessel. She will give a special task to whichever of her cultists are left alive after we fight to the death.
+11764,"I am to lead someone to the Shrine of Boethiah, instruct them to touch the Pillar of Sacrifice, and once trapped by it's magic, slay them. If I do this Boethiah will appear."
+11770,I found a book that mentioned a cult of Boethiah in the mountains near Windhelm.
+11785,I've found a strange gem. An otherworldly voice is commanding me to bring it to Mount Kilkreath.
+11899,"Nurelion's assistant, Quintus, believes he's found a way to repair the White Phial, and has enlisted me to track down some materials for him. "
+11900,"Nurelion's assistant, Quintus, believes he's found a way to repair the White Phial."
+11931,I have defeated Potema and been rewarded by Falk Firebeard.
+12486,<Alias=Questgiver> says that the Companions have been waiting for my return. I'm supposed to follow <Alias.PronounObj=Questgiver>.
+12496,Vilkas and I avenged Kodlak's death by bringing ruin to the Silver Hand. 
+12497,Vilkas has come with me to avenge the death of Kodlak by wiping out the Silver Hand.
+13113,"I have confronted and stopped a group of necromancers attempting to summon Potema, the Wolf Queen, in Wolfskull Cave. I should return to Falk Firebeard with the news."
+14515,"The most naturally talented warriors in Tamriel, the Redguards of Hammerfell have a hardy constitution and a natural resistance to poison. They can call upon an Adrenaline Rush in combat."
+15283,Thieves stolen Finn's Lute from the Bards College over a year ago. Inge Six-Fingers has asked me to recover the lute from their stronghold. 
+15297,Giraud Gemane of the Bards College has found a clue to the location of the legendary drum of Rjorn. He's asked me to go to Halldir's Cairn and retrieve it.
+15875,"Maven Black-Briar has sent me to Whiterun where I am to meet with someone named Mallus Maccius. Together, our goal is to bring down one of Maven's competitors, Honningbrew Meadery and discover where he obtained the financing to take her on."
+19102,"Meridia has commanded me to enter Kilkreath Ruins, destroy Malkoran, and retrieve the artifact Dawnbreaker. I will need to guide a beam of light through the ruins which will open the way for me."
+26550,"This reptilian race, well-suited for the treacherous swamps of their Black Marsh homeland, has developed a natural resistance to diseases and the ability to breathe underwater. They can call upon the Histskin to regenerate health very quickly."
+28190,"After I defeated Alduin on the top of the Throat of the World, he fled from me. One of his dragon allies may be able to tell me where he's gone. With the help of the Jarl of Whiterun, I've trapped the dragon Odahviing in Dragonsreach. Odahviing revealed that Alduin's lair is located in the ancient temple of Skuldafn, which is only accessible by air. Odahviing has offered to take me there, in return for his freedom."
+29793,"The most naturally talented warriors in Tamriel, the Redguards of Hammerfell have a hardy constitution and a natural resistance to poison. They can call upon an Adrenaline Rush in combat."
+37819,I have awoken from a night of debauchery with no idea what happened. Sam and the staff he promised me have disappeared. Ysolda in Whiterun will give me more information about Same once I return the ring I borrowed from her to give to a hagraven Witchmist Grove.
+38617,"Hailing from the province of Elsweyr, they are intelligent, quick, and agile.  They make excellent thieves due to their natural stealthiness. All Khajiit can see in the dark at will and have unarmed claw attacks."
+39998,"Hailing from the province of Elsweyr, they are intelligent, quick, and agile.  They make excellent thieves due to their natural stealthiness. All Khajiit can see in the dark and have deadly claw attacks."
+41094,"This reptilian race, well-suited for the treacherous swamps of their Black Marsh homeland, has developed a natural resistance to diseases and the ability to breathe underwater. They can call upon the Histskin to regenerate health very quickly."
+41716,"It seems that things are worse than even Delphine thought. Dragons aren't just coming back to life, they're being resurrected by other dragons. Delphine suspects that the Thalmor might be bringing dragons back for some sinister purpose. She's going to talk to her contacts about how we can infiltrate the Thalmor Embassy."
+42520,I helped repair the White Phial in time for Nurelion to see it before he died. 
+42697,"Natives of Cyrodiil, they have proved to be shrewd diplomats and traders. They are skilled with combat and magic. Anywhere gold coins might be found, Imperials always seem to find a few more. They can call upon the Voice of the Emperor to calm an enemy."
+43258,Windhelm is plagued by a shadowy killer. I've been asked to help investigate the latest murder.
+43503,I have awoken from a night of debauchery with no idea what happened. Sam and the staff he promised me have disappeared. Ysolda in Whiterun will give me more information about Same once I return the ring I borrowed from her to give to someone in Witchmist Grove.
+44585,Potema has been summoned from beyond the grave. I've defeated her in the Catacombs and retrieved her bones. I must return them to Styrr for blessing and tell Falk Potema has been defeated.
+45414,"Silus Vesuius is offering me gold to retrieve the three pieces of Mehrunes' Razor from their current owners. Drascua has the pommel, Ghunzul has the blade shards, and Jorgen has the hilt."
+51210,"Brynjolf has promised me more work if I'm able to locate him at a tavern called the Ragged Flagon. Judging from the dangerous nature of its location, it seems as though he's having me perform some type of initiation, but I can't be certain."
+53816,"I have awoken in the Temple Of Dibella in Markarth. Sam and the staff he promised me have disappeared. I have no idea how I got here but a priestess has told me I trashed the Temple. I have cleaned up the Temple, if I apologize to the priestess she might tell me what happened to Sam and the staff."
+54000,"Natives of Cyrodiil, they have proved to be shrewd diplomats and traders. They are skilled with combat and magic. Anywhere gold coins might be found, Imperials always seem to find a few more. They can call upon the Voice of the Emperor to calm an enemy."
+55755,"After I defeated Alduin on the top of the Throat of the World, he fled from me. I need to locate his lair so I can finish him off, once and for all."
+56019,I have awoken from a night of debauchery with no idea what happened. Sam and the staff he promised me have disappeared. Ennis in Rorikstead will tell me more about what happened once I return the goat I stole from him.
+57305,Arrows that hit the shield do no damage.
+58536,"Citizens of Skyrim, they are a tall and fair-haired people.  Strong and hardy, Nords are famous for their resistance to cold and their talent as warriors. They can use a Battlecry to make opponents flee."
+59696,Pickpocketing bonus of 100%. Item weight and value reduce pickpocketing odds.
+59866,"In addition to their quick and perceptive grasp of spellcraft, even the humblest of Bretons can boast a resistance to shock attacks. They are particularly skilled at conjuration magic."
+65068,"The people of the Wrothgarian and Dragontail Mountains, Orcish smiths are prized for their craftsmanship. Orc troops in Heavy Armor are among the finest in the Empire, and are fearsome when using their Berserker Rage."
+65183,"I discovered that Wuunferth the Unliving was the Butcher of Windhelm, and helped bring him to justice. "
+65211,"The clanfolk of the Western Valenwood forests, also known as ""Bosmer."" Wood elves make good scouts and thieves, and there are no finer archers in all of Tamriel. They have natural resistances to both poisons and diseases. They can Command Animals to fight for them."
+65359,"Also known as ""Dunmer"" in their homeland of Morrowind, dark elves are noted for their stealth and magic skills. They are naturally resistant to fire and can call upon their Ancestor's Wrath to surround themselves in fire."
+65726,"Also known as ""Dunmer"" in their homeland of Morrowind, dark elves are noted for their stealth and magic skills. They are naturally resistant to fire and can call upon their Ancestor's Wrath to surround themselves in fire."
+65770,"Also known as ""Altmer"" in their homeland of Summerset Isle, the high elves are the most strongly gifted in the arcane arts of all the races. They can call upon their Highborn power to regenerate Magicka quickly."
+65844,A representative from Dragon Bridge has appealed to the court in Solitude for help investigating Wolfskull Cave. Falk Firebeard has asked me to clear out the cave.
+65881,"Also known as ""Altmer"" in their homeland of Summerset Isle,  the high elves are the most strongly gifted in the arcane arts of all the races. They can call upon their Highborn power to regenerate magicka quickly."
+66107,A representative from Dragon Bridge has appealed to the court in Solitude for help investigating Wolfskull Cave. Falk Firebeard is looking for someone to look into the issue.
+66138,"The clanfolk of the Western Valenwood forests, also known as ""Bosmer."" Wood elves make good scouts and thieves, and there are no finer archers in all of Tamriel. They have natural resistances to both poisons and diseases. They can Command Animals to fight for them."
+66862,"The Thalmor are just as puzzled as we are about why dragons are returning. I learned that they are looking for a Blade named Esbern, who is supposed to be an expert on ancient dragon lore. I found Esbern hiding in the Ratway in Riften, and convinced him to let me in to explain myself."
+66872,"I have helped Madanach escape Cidhna Mine, and he and his Forsworn have taken credit for all my past crime, clearing my name in the Reach."
+66928,Onmund has asked me to help him get an amulet with sentimental value back from Enthir.
+67084,"It seems that things are worse than even Delphine thought. Dragons aren't just coming back to life, they're being resurrected by other dragons. Delphine suspects that the Thalmor might be bringing dragons back for some sinister purpose. Her contact, Malborn, smuggled some of my equipment into the Thalmor ambassador's manor. I infiltrated the manor posing as a guest at the ambassador's party. Now I need to search the ambassador's office to find out what the Thalmor know about the dragons."
+67175,"Enthir insists that Onmund sold him the amulet in question, and he will not go back on a trade. If, however, I can recover a particular staff for Enthir, he'll give me the amulet. I'll need to search <Alias=StaffLocation> for the staff."
+67357,"The information I obtained from Honningbrew Meadery points to the same anonymous buyer of Goldenglow Estate. If successful, this individual would have completely estranged Maven Black-Briar from the Guild and destroyed it economically. It's becoming painfully obvious that it's time to shed some light on our mysterious adversary before they have a chance to strike again."
+67365,Mehrunes Dagon has promised to reforge his Razor if I place my hands on his altar.
+67370,Mehrunes Dagon has asked me to kill Silus Vesuius. I will be given the reforged Razor if I succeed.
+67372,I killed an escaped criminal in <Alias=LocationHold>.
+67374,There is an escaped criminal wandering <Alias=LocationHold>. I'm supposed to track <Alias.PronounObj=Criminal> down and kill <Alias.PronounObj=Criminal>.
+67384,"The Jarl of Whiterun wouldn't help me capture a dragon as long as the civil war was raging. Arngeir agreed to host a peace council at High Hrothgar. With Esbern's help, I persuaded General Tullius and Ulfric Stormcloak to agree to a truce in order to defeat Alduin, who is a threat to both sides in the civil war."
+67475,"Arniel has finally revealed to me that his secret project deals with the disappearance of the dwarves, though he hasn't been clear about how his work relates to it. He's given me a warped soul gem, and asked me to find several Dwarven Convectors in the various ruins around Skyrim. I'm supposed to place the gem inside a convector, and then heat it using a spell Arniel has taught me. When I've done this several times, I should return the gem to Arniel."
+67489,"It seems that things are worse than even Delphine thought. Dragons aren't just coming back to life, they're being resurrected by other dragons. Delphine suspects that the Thalmor might be bringing dragons back for some sinister purpose. With the help of her contact, Malborn, I infiltrated the manor posing as a guest at the ambassador's party. I've now learned that the Thalmor are just as in the dark as we are - in fact, they're searching Riften for a Blade named Esbern, who they believe knows what the return of the dragons means."
+67513,"I've passed through Alduin's portal into Sovngarde, the realm of Aetherius where the souls of Nord heroes go to feast and battle until the final reckoning. Alduin has laid some kind of soul-snare across the valley of Sovngarde, a mist where he hides and feeds upon the trapped souls. My only hope is to reach the Hall of Heroes."
+67614,Onmund is grateful that I was able to deal with Enthir and return his amulet.
+67621,"Enthir agreed to return Onmund's amulet to him, and has given it to me. I need to make sure it gets back to Onmund."
+67624,"I have found the staff that Enthir wanted, and need to deliver it to him so that he'll exchange it for Onmund's amulet."
+68210,I have killed Silus Vesuius for Mehrunes Dagon. I should speak to the Lord of Destruction through his altar.
+68212,Thonar Silver-Blood has granted me a pardon for killing Madanach. My name has now been cleared in the Reach.
+68390,"The Jarl of Whiterun won't help me capture a dragon as long as the civil war is raging. Arngeir has agreed to host a peace council at High Hrothgar. I need to convince the Imperials and the Stormcloaks to agree to a truce in order to defeat Alduin, who is a threat to both sides in the civil war."
+68402,"Health, Magicka, and Stamina do not recover while in Sunlight and are reduced by <15> points."
+68428,"Health, Magicka, and Stamina do not recover while in Sunlight and are reduced by <60> points."
+68476,"I've once again helped Arniel with his secret, and very vague, project relating to the dwarves. He implied that he's waiting for something else, and then finally maybe I'll see what this is all about."
+68528,"Health, Magicka, and Stamina do not recover while in Sunlight and are reduced by <45> points."
+68541,"It seems that things are worse than even Delphine thought. Dragons aren't just coming back to life, they're being resurrected by other dragons. Delphine suspects that the Thalmor might be bringing dragons back for some sinister purpose. With the help of her contact, Malborn, I infiltrated the manor posing as a guest at the ambassador's party. I learned that the Thalmor are just as in the dark as we are - in fact, they're searching Riften for a Blade named Esbern, who they believe knows what the return of the dragons means."
+68547,"Health, Magicka, and Stamina do not recover while in Sunlight and are reduced by <30> points."
+68574,"I've successfully altered Arniel's warped soul gem, and should return it to him. It is somehow critical to his project regarding the disappearance of the dwarves; perhaps he'll explain exactly what he's up to."
+68613,Silus Vesuius now has all three pieces of Mehrunes' Razor and wants me to help him reforge it at the Shrine of Mehrunes Dagon.
+68641,"I've passed through Alduin's portal into Sovngarde, the realm of Aetherius where the souls of Nord heroes go to feast and battle until the final reckoning. Alduin has laid some kind of soul-snare across the valley of Sovngarde, a mist where he hides and feeds upon the trapped souls. I reached the Hall of Heroes and met Gormlaith Golden-Hilt, Hakon One-Eye, and Felldir the Old - the three heroes who I saw defeat Alduin in my vision of the past. They have been permitted by Shor, the god of the underworld, to join me in my battle against Alduin."
+69010,"I have proven myself to Boethiah, and she has made me her new champion."
+69012,"I have entered Kilkreath Ruins, destroyed Malkoran, and retrieved the artifact Dawnstar, which Meridia has bestowed upon me for my service."
+70525,"The Thalmor are just as puzzled as we are about why dragons are returning. I learned that they are looking for a Blade named Esbern, who is supposed to be an expert on ancient dragon lore. I've learned that he's hiding out in the Ratway Warrens in Riften."
+70627,"The Thalmor are just as puzzled as we are about why dragons are returning. I learned that they are looking for a Blade named Esbern, who is supposed to be an expert on ancient dragon lore. I found Esbern hiding in the Ratway in Riften, and convinced him to let me in to explain myself."
+71671,I have discovered a shrine to Boethiah in the mountains near Windhelm.
+74790,"Windhelm is plagued by a shadowy killer. I've been asked to help investigate the latest murder. Jorleif, the steward, may have advice from time to time."
+75283,"I discovered that Calixto Corrium was the Butcher of Windhelm, and helped bring him to justice."
